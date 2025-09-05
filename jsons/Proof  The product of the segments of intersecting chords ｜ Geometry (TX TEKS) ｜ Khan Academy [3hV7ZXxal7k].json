@@ -1,0 +1,748 @@
+{
+  "file": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k].mp4",
+  "chunks": [
+    {
+      "number": 1,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 0.0,
+      "end": 2.52,
+      "text": " All right, what we wanna do in this video"
+    },
+    {
+      "number": 2,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 2.52,
+      "end": 4.8,
+      "text": " is given this circle"
+    },
+    {
+      "number": 3,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 4.8,
+      "end": 7.84,
+      "text": " and these two intersecting chords in the circle,"
+    },
+    {
+      "number": 4,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 7.84,
+      "end": 11.08,
+      "text": " we wanna prove that the product of the subsegments"
+    },
+    {
+      "number": 5,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 11.08,
+      "end": 13.4,
+      "text": " of each of these chords are the same."
+    },
+    {
+      "number": 6,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 13.4,
+      "end": 14.52,
+      "text": " Or another way to say it,"
+    },
+    {
+      "number": 7,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 14.52,
+      "end": 16.54,
+      "text": " that the length of segment AC"
+    },
+    {
+      "number": 8,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 16.54,
+      "end": 18.88,
+      "text": " times the length of segment CE"
+    },
+    {
+      "number": 9,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 18.88,
+      "end": 21.82,
+      "text": " is equal to the length of segment BC"
+    },
+    {
+      "number": 10,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 21.82,
+      "end": 24.6,
+      "text": " times the length of segment CD."
+    },
+    {
+      "number": 11,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 24.6,
+      "end": 26.44,
+      "text": " If you're inspired, I encourage you to pause this video"
+    },
+    {
+      "number": 12,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 26.44,
+      "end": 28.080000000000002,
+      "text": " and play around with it if you like,"
+    },
+    {
+      "number": 13,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 28.08,
+      "end": 30.279999999999998,
+      "text": " but we're about to jump in."
+    },
+    {
+      "number": 14,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 30.279999999999998,
+      "end": 31.72,
+      "text": " So the first thing I'm going to do"
+    },
+    {
+      "number": 15,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 31.72,
+      "end": 33.879999999999995,
+      "text": " is set up two triangles"
+    },
+    {
+      "number": 16,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 33.879999999999995,
+      "end": 37.519999999999996,
+      "text": " and then try to prove that these triangles are similar."
+    },
+    {
+      "number": 17,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 37.519999999999996,
+      "end": 40.04,
+      "text": " And then I'm going to set up the ratios"
+    },
+    {
+      "number": 18,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 40.04,
+      "end": 43.4,
+      "text": " between all of the sides that we see there."
+    },
+    {
+      "number": 19,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 43.4,
+      "end": 44.72,
+      "text": " And then with a little bit of algebra,"
+    },
+    {
+      "number": 20,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 44.72,
+      "end": 47.08,
+      "text": " we should hopefully get to this result."
+    },
+    {
+      "number": 21,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 47.08,
+      "end": 49.2,
+      "text": " Now I've just drawn these two new chords"
+    },
+    {
+      "number": 22,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 49.2,
+      "end": 51.72,
+      "text": " to make, to construct these two triangles."
+    },
+    {
+      "number": 23,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 51.72,
+      "end": 54.0,
+      "text": " So now let's set about showing"
+    },
+    {
+      "number": 24,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 54.0,
+      "end": 56.08,
+      "text": " that they are similar triangles."
+    },
+    {
+      "number": 25,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 56.08,
+      "end": 57.56,
+      "text": " Well, the first thing I could show,"
+    },
+    {
+      "number": 26,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 57.56,
+      "end": 58.6,
+      "text": " we have vertical angles."
+    },
+    {
+      "number": 27,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 58.6,
+      "end": 60.080000000000005,
+      "text": " We know that the measure of this angle"
+    },
+    {
+      "number": 28,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 60.080000000000005,
+      "end": 62.24,
+      "text": " is going to be the same as the measure of that angle."
+    },
+    {
+      "number": 29,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 62.24,
+      "end": 64.64,
+      "text": " Let me write this down, vertical angles."
+    },
+    {
+      "number": 30,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 64.64,
+      "end": 67.66,
+      "text": " Vertical angles."
+    },
+    {
+      "number": 31,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 68.92,
+      "end": 71.0,
+      "text": " We have seen that in many other videos."
+    },
+    {
+      "number": 32,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 71.0,
+      "end": 72.78,
+      "text": " Maybe I'll write it this way."
+    },
+    {
+      "number": 33,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 72.78,
+      "end": 75.6,
+      "text": " This tells us because of these angles are vertical,"
+    },
+    {
+      "number": 34,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 75.6,
+      "end": 79.04,
+      "text": " the measure of angle ACD,"
+    },
+    {
+      "number": 35,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 79.04,
+      "end": 83.16,
+      "text": " A-C-D is equal to the measure of angle,"
+    },
+    {
+      "number": 36,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 83.16,
+      "end": 84.08,
+      "text": " I'm running out of space,"
+    },
+    {
+      "number": 37,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 84.08,
+      "end": 87.2,
+      "text": " equal to the measure of angle BCE."
+    },
+    {
+      "number": 38,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 88.2,
+      "end": 90.08,
+      "text": " All right, I have one angle down."
+    },
+    {
+      "number": 39,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 90.08,
+      "end": 92.58,
+      "text": " If I can get another set of corresponding angles"
+    },
+    {
+      "number": 40,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 92.58,
+      "end": 94.18,
+      "text": " that are congruent, that have the same measure,"
+    },
+    {
+      "number": 41,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 94.18,
+      "end": 95.02000000000001,
+      "text": " then I'm set."
+    },
+    {
+      "number": 42,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 95.02000000000001,
+      "end": 96.28,
+      "text": " Because if I have two equal angles,"
+    },
+    {
+      "number": 43,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 96.28,
+      "end": 97.84,
+      "text": " and frankly, all of the angles are going to be equal,"
+    },
+    {
+      "number": 44,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 97.84,
+      "end": 100.8,
+      "text": " I'm definitely dealing with similar triangles."
+    },
+    {
+      "number": 45,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 100.8,
+      "end": 104.38,
+      "text": " Well, there's several ways that we can tackle it."
+    },
+    {
+      "number": 46,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 104.38,
+      "end": 108.72,
+      "text": " But one way is to see that angle,"
+    },
+    {
+      "number": 47,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 108.72,
+      "end": 110.08,
+      "text": " let me just set a new color,"
+    },
+    {
+      "number": 48,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 110.08,
+      "end": 114.80000000000001,
+      "text": " angle ADB,"
+    },
+    {
+      "number": 49,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 114.80000000000001,
+      "end": 116.60000000000001,
+      "text": " let me write it over here,"
+    },
+    {
+      "number": 50,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 116.6,
+      "end": 121.24,
+      "text": " angle ADB,"
+    },
+    {
+      "number": 51,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 121.24,
+      "end": 123.24,
+      "text": " and angle AEB,"
+    },
+    {
+      "number": 52,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 126.64,
+      "end": 130.51999999999998,
+      "text": " they both intersect the same arc."
+    },
+    {
+      "number": 53,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 130.51999999999998,
+      "end": 133.35999999999999,
+      "text": " And if we have angles that are inscribed on a circle,"
+    },
+    {
+      "number": 54,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 133.35999999999999,
+      "end": 134.32,
+      "text": " and I think this is pretty cool,"
+    },
+    {
+      "number": 55,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 134.32,
+      "end": 137.45999999999998,
+      "text": " that intersect the same arc,"
+    },
+    {
+      "number": 56,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 137.45999999999998,
+      "end": 140.84,
+      "text": " then those angles are going to be congruent."
+    },
+    {
+      "number": 57,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 140.84,
+      "end": 144.6,
+      "text": " So this is going to be congruent to angle,"
+    },
+    {
+      "number": 58,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 144.6,
+      "end": 147.44,
+      "text": " angle AEB,"
+    },
+    {
+      "number": 59,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 147.44,
+      "end": 149.44,
+      "text": " angle AEB."
+    },
+    {
+      "number": 60,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 149.44,
+      "end": 151.44,
+      "text": " Or I could have said that their measures are the same."
+    },
+    {
+      "number": 61,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 151.44,
+      "end": 152.72,
+      "text": " And I could mark that here,"
+    },
+    {
+      "number": 62,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 152.72,
+      "end": 154.72,
+      "text": " maybe I'll do that in another color."
+    },
+    {
+      "number": 63,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 154.72,
+      "end": 157.07999999999998,
+      "text": " I will put some double arcs here."
+    },
+    {
+      "number": 64,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 157.07999999999998,
+      "end": 159.2,
+      "text": " And so now we have two triangles"
+    },
+    {
+      "number": 65,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 159.2,
+      "end": 162.16,
+      "text": " that have two sets of corresponding angles"
+    },
+    {
+      "number": 66,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 162.16,
+      "end": 164.24,
+      "text": " that are congruent, that have the same measure."
+    },
+    {
+      "number": 67,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 164.24,
+      "end": 167.04,
+      "text": " So we can say that by, let me write it here."
+    },
+    {
+      "number": 68,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 167.04,
+      "end": 171.0,
+      "text": " So by angle, angle,"
+    },
+    {
+      "number": 69,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 171.0,
+      "end": 175.12,
+      "text": " we now know that triangle ACD,"
+    },
+    {
+      "number": 70,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 175.12,
+      "end": 176.96,
+      "text": " A-C-D,"
+    },
+    {
+      "number": 71,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 176.96,
+      "end": 180.76,
+      "text": " is similar to triangle BCE,"
+    },
+    {
+      "number": 72,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 180.76,
+      "end": 184.24,
+      "text": " triangle BCE."
+    },
+    {
+      "number": 73,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 184.24,
+      "end": 186.22,
+      "text": " Well, if these two triangles are similar,"
+    },
+    {
+      "number": 74,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 186.22,
+      "end": 188.28,
+      "text": " then the ratio of corresponding sides"
+    },
+    {
+      "number": 75,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 188.28,
+      "end": 189.8,
+      "text": " is going to be the same."
+    },
+    {
+      "number": 76,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 189.8,
+      "end": 192.0,
+      "text": " So another way that we could say that"
+    },
+    {
+      "number": 77,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 192.0,
+      "end": 197.0,
+      "text": " is the ratio of DC over CA,"
+    },
+    {
+      "number": 78,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 197.36,
+      "end": 201.26,
+      "text": " so the length of DC over the length of CA,"
+    },
+    {
+      "number": 79,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 201.26,
+      "end": 202.44,
+      "text": " that should be the same."
+    },
+    {
+      "number": 80,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 202.44,
+      "end": 205.68,
+      "text": " So DC over CA should be the same as the length of,"
+    },
+    {
+      "number": 81,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 205.68,
+      "end": 207.0,
+      "text": " and I should have actually said CD"
+    },
+    {
+      "number": 82,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 207.0,
+      "end": 208.64,
+      "text": " just to keep things consistent."
+    },
+    {
+      "number": 83,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 208.64,
+      "end": 212.12,
+      "text": " So CD over AC,"
+    },
+    {
+      "number": 84,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 212.12,
+      "end": 213.88,
+      "text": " I'm just gonna do this in alphabetical order."
+    },
+    {
+      "number": 85,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 213.88,
+      "end": 218.88,
+      "text": " So CD over AC should be the same as CE,"
+    },
+    {
+      "number": 86,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 221.92000000000002,
+      "end": 225.2,
+      "text": " CE over BC."
+    },
+    {
+      "number": 87,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 225.2,
+      "end": 227.95999999999998,
+      "text": " I'm just looking at the ratio of corresponding sides."
+    },
+    {
+      "number": 88,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 227.95999999999998,
+      "end": 232.95999999999998,
+      "text": " And that's because these two triangles are similar."
+    },
+    {
+      "number": 89,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 233.2,
+      "end": 236.1,
+      "text": " And from here, we can just do a little bit of algebra."
+    },
+    {
+      "number": 90,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 236.1,
+      "end": 238.11999999999998,
+      "text": " One way to think about it is we can just multiply"
+    },
+    {
+      "number": 91,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 238.11999999999998,
+      "end": 243.12,
+      "text": " both sides by the length of AC and the length of BC."
+    },
+    {
+      "number": 92,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 243.44,
+      "end": 244.28,
+      "text": " This is equivalent."
+    },
+    {
+      "number": 93,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 244.28,
+      "end": 246.39999999999998,
+      "text": " Some of you might've done cross multiplication before."
+    },
+    {
+      "number": 94,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 246.39999999999998,
+      "end": 247.67999999999998,
+      "text": " This is why it works,"
+    },
+    {
+      "number": 95,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 247.67999999999998,
+      "end": 250.0,
+      "text": " because we're multiplying both sides of this equation"
+    },
+    {
+      "number": 96,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 250.0,
+      "end": 252.32,
+      "text": " by the same value, so the equality holds."
+    },
+    {
+      "number": 97,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 252.32,
+      "end": 253.92,
+      "text": " This AC cancels with this AC,"
+    },
+    {
+      "number": 98,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 253.92,
+      "end": 255.72,
+      "text": " this BC cancels with this BC."
+    },
+    {
+      "number": 99,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 255.72,
+      "end": 260.71999999999997,
+      "text": " And then we are left with BC times CD,"
+    },
+    {
+      "number": 100,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 260.88,
+      "end": 263.24,
+      "text": " the length of BC times the length of CD"
+    },
+    {
+      "number": 101,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 263.24,
+      "end": 268.24,
+      "text": " is equal to the length of CE times the length of AC,"
+    },
+    {
+      "number": 102,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 270.62,
+      "end": 273.32,
+      "text": " which is exactly the result we were looking for."
+    },
+    {
+      "number": 103,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 273.32,
+      "end": 276.71999999999997,
+      "text": " If you just swap both of these sides of the equality,"
+    },
+    {
+      "number": 104,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 276.71999999999997,
+      "end": 279.15999999999997,
+      "text": " you get exactly, and then you could also obviously"
+    },
+    {
+      "number": 105,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 279.15999999999997,
+      "end": 280.52,
+      "text": " change your order of multiplication here."
+    },
+    {
+      "number": 106,
+      "title": "Proof  The product of the segments of intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [3hV7ZXxal7k]",
+      "start": 280.52,
+      "end": 283.44,
+      "text": " You get exactly the result that we wanted to prove."
+    }
+  ],
+  "full_text": " All right, what we wanna do in this video is given this circle and these two intersecting chords in the circle, we wanna prove that the product of the subsegments of each of these chords are the same. Or another way to say it, that the length of segment AC times the length of segment CE is equal to the length of segment BC times the length of segment CD. If you're inspired, I encourage you to pause this video and play around with it if you like, but we're about to jump in. So the first thing I'm going to do is set up two triangles and then try to prove that these triangles are similar. And then I'm going to set up the ratios between all of the sides that we see there. And then with a little bit of algebra, we should hopefully get to this result. Now I've just drawn these two new chords to make, to construct these two triangles. So now let's set about showing that they are similar triangles. Well, the first thing I could show, we have vertical angles. We know that the measure of this angle is going to be the same as the measure of that angle. Let me write this down, vertical angles. Vertical angles. We have seen that in many other videos. Maybe I'll write it this way. This tells us because of these angles are vertical, the measure of angle ACD, A-C-D is equal to the measure of angle, I'm running out of space, equal to the measure of angle BCE. All right, I have one angle down. If I can get another set of corresponding angles that are congruent, that have the same measure, then I'm set. Because if I have two equal angles, and frankly, all of the angles are going to be equal, I'm definitely dealing with similar triangles. Well, there's several ways that we can tackle it. But one way is to see that angle, let me just set a new color, angle ADB, let me write it over here, angle ADB, and angle AEB, they both intersect the same arc. And if we have angles that are inscribed on a circle, and I think this is pretty cool, that intersect the same arc, then those angles are going to be congruent. So this is going to be congruent to angle, angle AEB, angle AEB. Or I could have said that their measures are the same. And I could mark that here, maybe I'll do that in another color. I will put some double arcs here. And so now we have two triangles that have two sets of corresponding angles that are congruent, that have the same measure. So we can say that by, let me write it here. So by angle, angle, we now know that triangle ACD, A-C-D, is similar to triangle BCE, triangle BCE. Well, if these two triangles are similar, then the ratio of corresponding sides is going to be the same. So another way that we could say that is the ratio of DC over CA, so the length of DC over the length of CA, that should be the same. So DC over CA should be the same as the length of, and I should have actually said CD just to keep things consistent. So CD over AC, I'm just gonna do this in alphabetical order. So CD over AC should be the same as CE, CE over BC. I'm just looking at the ratio of corresponding sides. And that's because these two triangles are similar. And from here, we can just do a little bit of algebra. One way to think about it is we can just multiply both sides by the length of AC and the length of BC. This is equivalent. Some of you might've done cross multiplication before. This is why it works, because we're multiplying both sides of this equation by the same value, so the equality holds. This AC cancels with this AC, this BC cancels with this BC. And then we are left with BC times CD, the length of BC times the length of CD is equal to the length of CE times the length of AC, which is exactly the result we were looking for. If you just swap both of these sides of the equality, you get exactly, and then you could also obviously change your order of multiplication here. You get exactly the result that we wanted to prove."
+}

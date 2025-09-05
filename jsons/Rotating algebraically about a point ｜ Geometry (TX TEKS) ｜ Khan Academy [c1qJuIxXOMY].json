@@ -1,0 +1,1112 @@
+{
+  "file": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY].mp4",
+  "chunks": [
+    {
+      "number": 1,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 0.0,
+      "end": 3.44,
+      "text": " We're told to graph the image of triangle ABC"
+    },
+    {
+      "number": 2,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 3.44,
+      "end": 7.6000000000000005,
+      "text": " after rotation by 90 degrees counterclockwise"
+    },
+    {
+      "number": 3,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 7.6000000000000005,
+      "end": 10.68,
+      "text": " about the point three comma negative five."
+    },
+    {
+      "number": 4,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 10.68,
+      "end": 12.14,
+      "text": " And then later when we're done,"
+    },
+    {
+      "number": 5,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 12.14,
+      "end": 14.6,
+      "text": " they're gonna want us to describe the rotation"
+    },
+    {
+      "number": 6,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 14.6,
+      "end": 17.2,
+      "text": " in coordinate notation."
+    },
+    {
+      "number": 7,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 17.2,
+      "end": 19.240000000000002,
+      "text": " So pause this video, see if you could have a go at this"
+    },
+    {
+      "number": 8,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 19.240000000000002,
+      "end": 20.6,
+      "text": " before we do this together."
+    },
+    {
+      "number": 9,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 21.56,
+      "end": 23.28,
+      "text": " All right, now let's work on this together."
+    },
+    {
+      "number": 10,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 23.28,
+      "end": 26.02,
+      "text": " So in other videos, other examples,"
+    },
+    {
+      "number": 11,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 26.02,
+      "end": 28.48,
+      "text": " we've done pure rotations about the origin."
+    },
+    {
+      "number": 12,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 28.48,
+      "end": 31.22,
+      "text": " What's different here is that we're rotating"
+    },
+    {
+      "number": 13,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 31.22,
+      "end": 34.5,
+      "text": " about the point three comma negative five."
+    },
+    {
+      "number": 14,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 34.5,
+      "end": 36.7,
+      "text": " So one way to handle this, and in my mind,"
+    },
+    {
+      "number": 15,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 36.7,
+      "end": 38.54,
+      "text": " this is the easiest way to handle this,"
+    },
+    {
+      "number": 16,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 38.54,
+      "end": 42.34,
+      "text": " is to start by shifting the entire axis,"
+    },
+    {
+      "number": 17,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 42.34,
+      "end": 45.94,
+      "text": " do a translation so that three negative five"
+    },
+    {
+      "number": 18,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 45.94,
+      "end": 47.94,
+      "text": " goes to the origin."
+    },
+    {
+      "number": 19,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 47.94,
+      "end": 50.46,
+      "text": " Then we do our rotation the way that we have seen"
+    },
+    {
+      "number": 20,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 50.46,
+      "end": 53.86,
+      "text": " in other videos, and then we shift everything back."
+    },
+    {
+      "number": 21,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 53.86,
+      "end": 56.1,
+      "text": " We essentially undo that translation."
+    },
+    {
+      "number": 22,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 56.120000000000005,
+      "end": 58.96,
+      "text": " And the whole time, we should be keeping track"
+    },
+    {
+      "number": 23,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 58.96,
+      "end": 62.52,
+      "text": " of the rotation in coordinate notation."
+    },
+    {
+      "number": 24,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 62.52,
+      "end": 63.6,
+      "text": " So what do I mean by that?"
+    },
+    {
+      "number": 25,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 63.6,
+      "end": 66.0,
+      "text": " So let's just start first by shifting."
+    },
+    {
+      "number": 26,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 66.0,
+      "end": 68.42,
+      "text": " So if we're rotating around three comma negative five,"
+    },
+    {
+      "number": 27,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 68.42,
+      "end": 72.8,
+      "text": " so three negative five is right over here."
+    },
+    {
+      "number": 28,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 72.8,
+      "end": 74.48,
+      "text": " If we wanted to move that point"
+    },
+    {
+      "number": 29,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 74.48,
+      "end": 77.48,
+      "text": " and everything along with it to the origin,"
+    },
+    {
+      "number": 30,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 77.48,
+      "end": 82.48,
+      "text": " I want to shift to the left by three."
+    },
+    {
+      "number": 31,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 82.54,
+      "end": 86.7,
+      "text": " So whatever x-coordinate I have, I want to subtract three."
+    },
+    {
+      "number": 32,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 86.7,
+      "end": 88.86,
+      "text": " And whatever y-coordinate I have,"
+    },
+    {
+      "number": 33,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 88.86,
+      "end": 93.62,
+      "text": " I want to add five to move that to the origin."
+    },
+    {
+      "number": 34,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 93.62,
+      "end": 95.94,
+      "text": " So the first transformation I want to do"
+    },
+    {
+      "number": 35,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 95.94,
+      "end": 97.26,
+      "text": " is this translation."
+    },
+    {
+      "number": 36,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 97.26,
+      "end": 99.9,
+      "text": " So I'll say x comma y."
+    },
+    {
+      "number": 37,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 99.9,
+      "end": 104.42,
+      "text": " Whatever x is, I want to shift it to x minus three."
+    },
+    {
+      "number": 38,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 104.42,
+      "end": 108.78,
+      "text": " And whatever y is, I want to shift it to y plus five."
+    },
+    {
+      "number": 39,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 108.78,
+      "end": 111.94,
+      "text": " So now, the point three comma negative five,"
+    },
+    {
+      "number": 40,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 111.96,
+      "end": 113.96,
+      "text": " it gets mapped onto the origin."
+    },
+    {
+      "number": 41,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 113.96,
+      "end": 117.32,
+      "text": " And let's think about where everything else gets mapped to."
+    },
+    {
+      "number": 42,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 117.32,
+      "end": 118.88,
+      "text": " Well, point C right over here,"
+    },
+    {
+      "number": 43,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 118.88,
+      "end": 120.32,
+      "text": " we're shifting three to the left,"
+    },
+    {
+      "number": 44,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 120.32,
+      "end": 122.03999999999999,
+      "text": " one, two, three, and up five,"
+    },
+    {
+      "number": 45,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 122.03999999999999,
+      "end": 124.25999999999999,
+      "text": " one, two, three, four, five."
+    },
+    {
+      "number": 46,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 124.25999999999999,
+      "end": 126.92,
+      "text": " So it will go right over there."
+    },
+    {
+      "number": 47,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 126.92,
+      "end": 129.2,
+      "text": " Point B, three to the left,"
+    },
+    {
+      "number": 48,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 129.2,
+      "end": 132.16,
+      "text": " and up one, two, three, four, five."
+    },
+    {
+      "number": 49,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 132.16,
+      "end": 133.28,
+      "text": " It goes there."
+    },
+    {
+      "number": 50,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 133.28,
+      "end": 134.92,
+      "text": " And then point A, three to the left,"
+    },
+    {
+      "number": 51,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 134.92,
+      "end": 139.48,
+      "text": " and one, two, three, four, five up."
+    },
+    {
+      "number": 52,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 139.5,
+      "end": 143.42,
+      "text": " So now, our triangle is right over here."
+    },
+    {
+      "number": 53,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 144.57999999999998,
+      "end": 147.29999999999998,
+      "text": " And now, the next thing we want to do"
+    },
+    {
+      "number": 54,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 147.29999999999998,
+      "end": 152.29999999999998,
+      "text": " is rotate 90 degrees counterclockwise around this point,"
+    },
+    {
+      "number": 55,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 153.22,
+      "end": 156.57999999999998,
+      "text": " which is now the origin, which we have seen before."
+    },
+    {
+      "number": 56,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 156.57999999999998,
+      "end": 158.28,
+      "text": " And I always like to remind myself,"
+    },
+    {
+      "number": 57,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 158.28,
+      "end": 159.38,
+      "text": " some of you already might know"
+    },
+    {
+      "number": 58,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 159.38,
+      "end": 161.29999999999998,
+      "text": " what that transformation looks like,"
+    },
+    {
+      "number": 59,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 161.29999999999998,
+      "end": 163.1,
+      "text": " but I always remind myself,"
+    },
+    {
+      "number": 60,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 163.1,
+      "end": 164.76,
+      "text": " if I'm at, say, the point,"
+    },
+    {
+      "number": 61,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 164.78,
+      "end": 169.78,
+      "text": " well, let's just say the point four or zero, four."
+    },
+    {
+      "number": 62,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 169.78,
+      "end": 172.42,
+      "text": " So let's say I'm at the point zero, four right over here."
+    },
+    {
+      "number": 63,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 172.42,
+      "end": 175.82,
+      "text": " If I'm rotating 90 degrees counterclockwise,"
+    },
+    {
+      "number": 64,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 175.82,
+      "end": 177.35999999999999,
+      "text": " it's going to rotate over here."
+    },
+    {
+      "number": 65,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 177.35999999999999,
+      "end": 180.1,
+      "text": " I'm going counterclockwise by 90 degrees."
+    },
+    {
+      "number": 66,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 180.1,
+      "end": 185.1,
+      "text": " So it becomes, it goes to the point negative four comma zero."
+    },
+    {
+      "number": 67,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 185.68,
+      "end": 188.06,
+      "text": " So that reminds me, and you could try that with other points,"
+    },
+    {
+      "number": 68,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 188.06,
+      "end": 189.0,
+      "text": " but we've seen this before."
+    },
+    {
+      "number": 69,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 189.0,
+      "end": 190.1,
+      "text": " I'm not proving it to you,"
+    },
+    {
+      "number": 70,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 190.1,
+      "end": 192.35999999999999,
+      "text": " but I'm just making sure I'm doing the,"
+    },
+    {
+      "number": 71,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 192.35999999999999,
+      "end": 193.73999999999998,
+      "text": " the transformation in my mind"
+    },
+    {
+      "number": 72,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 193.76000000000002,
+      "end": 195.96,
+      "text": " is the one that makes sense here."
+    },
+    {
+      "number": 73,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 195.96,
+      "end": 198.88,
+      "text": " Whatever my x and y is,"
+    },
+    {
+      "number": 74,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 198.88,
+      "end": 202.68,
+      "text": " when I do a rotation 90 degrees counterclockwise,"
+    },
+    {
+      "number": 75,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 202.68,
+      "end": 206.36,
+      "text": " I then take the negative of the y, and that becomes my x."
+    },
+    {
+      "number": 76,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 206.36,
+      "end": 208.0,
+      "text": " So the y was four."
+    },
+    {
+      "number": 77,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 208.0,
+      "end": 209.96,
+      "text": " I now have a negative four as my x."
+    },
+    {
+      "number": 78,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 209.96,
+      "end": 212.84,
+      "text": " And whatever was the x now becomes my y."
+    },
+    {
+      "number": 79,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 212.84,
+      "end": 215.8,
+      "text": " And we could try this with other points if you like."
+    },
+    {
+      "number": 80,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 215.8,
+      "end": 219.02,
+      "text": " Now, we aren't just doing this rotation only."
+    },
+    {
+      "number": 81,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 219.02,
+      "end": 221.72,
+      "text": " We're doing this rotation on top of this translation"
+    },
+    {
+      "number": 82,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 221.72,
+      "end": 223.02,
+      "text": " that we've already done."
+    },
+    {
+      "number": 83,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 223.04000000000002,
+      "end": 225.88000000000002,
+      "text": " So if we want to do that rotation,"
+    },
+    {
+      "number": 84,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 225.88000000000002,
+      "end": 230.08,
+      "text": " let us now write the coordinate notation."
+    },
+    {
+      "number": 85,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 230.08,
+      "end": 234.08,
+      "text": " So x comma y is now going to be,"
+    },
+    {
+      "number": 86,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 234.08,
+      "end": 237.08,
+      "text": " after we do the translation and the rotation,"
+    },
+    {
+      "number": 87,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 237.08,
+      "end": 238.72,
+      "text": " we're going to do this transformation"
+    },
+    {
+      "number": 88,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 238.72,
+      "end": 240.74,
+      "text": " with these coordinates here."
+    },
+    {
+      "number": 89,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 240.74,
+      "end": 244.22,
+      "text": " So what was my y, I'm going to take the negative of that."
+    },
+    {
+      "number": 90,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 244.22,
+      "end": 246.70000000000002,
+      "text": " So negative y plus five."
+    },
+    {
+      "number": 91,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 248.52,
+      "end": 252.74,
+      "text": " And what was my x now becomes my y."
+    },
+    {
+      "number": 92,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 253.4,
+      "end": 255.5,
+      "text": " So x minus three."
+    },
+    {
+      "number": 93,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 256.6,
+      "end": 259.88,
+      "text": " And now let us draw that."
+    },
+    {
+      "number": 94,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 259.88,
+      "end": 264.68,
+      "text": " So if this point, let me do this in a red color."
+    },
+    {
+      "number": 95,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 264.68,
+      "end": 267.12,
+      "text": " If the point, if we had this point here,"
+    },
+    {
+      "number": 96,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 267.12,
+      "end": 270.12,
+      "text": " which was originally our C, we could call this C prime"
+    },
+    {
+      "number": 97,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 270.12,
+      "end": 273.16,
+      "text": " or our first C prime, whatever we want to call it."
+    },
+    {
+      "number": 98,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 273.16,
+      "end": 276.6,
+      "text": " If we now do this transformation,"
+    },
+    {
+      "number": 99,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 276.6,
+      "end": 279.6,
+      "text": " so my coordinate right over here, let me write it."
+    },
+    {
+      "number": 100,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 279.62,
+      "end": 283.1,
+      "text": " This is negative four comma five."
+    },
+    {
+      "number": 101,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 283.1,
+      "end": 288.1,
+      "text": " It's now going to be negative five comma,"
+    },
+    {
+      "number": 102,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 288.52000000000004,
+      "end": 291.1,
+      "text": " negative five comma negative four."
+    },
+    {
+      "number": 103,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 291.1,
+      "end": 293.66,
+      "text": " So it's negative five comma negative four."
+    },
+    {
+      "number": 104,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 293.66,
+      "end": 295.58000000000004,
+      "text": " It goes right there."
+    },
+    {
+      "number": 105,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 295.58000000000004,
+      "end": 300.58000000000004,
+      "text": " This point right over here is the point one comma 11."
+    },
+    {
+      "number": 106,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 301.70000000000005,
+      "end": 303.06,
+      "text": " After the transformation,"
+    },
+    {
+      "number": 107,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 303.06,
+      "end": 307.52000000000004,
+      "text": " it's going to become the point negative 11 comma one,"
+    },
+    {
+      "number": 108,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 307.52000000000004,
+      "end": 309.58000000000004,
+      "text": " negative 11 comma one."
+    },
+    {
+      "number": 109,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 310.4,
+      "end": 311.24,
+      "text": " It goes right over there."
+    },
+    {
+      "number": 110,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 311.24,
+      "end": 316.02,
+      "text": " This is the point four comma eight."
+    },
+    {
+      "number": 111,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 316.02,
+      "end": 319.44,
+      "text": " After transformation, it is going to be the point"
+    },
+    {
+      "number": 112,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 319.44,
+      "end": 323.91999999999996,
+      "text": " negative eight comma four, negative eight comma four."
+    },
+    {
+      "number": 113,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 323.91999999999996,
+      "end": 327.0,
+      "text": " So now our triangle has been mapped to this."
+    },
+    {
+      "number": 114,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 327.0,
+      "end": 329.44,
+      "text": " This is after that rotation."
+    },
+    {
+      "number": 115,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 329.44,
+      "end": 331.21999999999997,
+      "text": " Now about the origin."
+    },
+    {
+      "number": 116,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 331.21999999999997,
+      "end": 333.15999999999997,
+      "text": " But now we want to shift things."
+    },
+    {
+      "number": 117,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 333.15999999999997,
+      "end": 334.76,
+      "text": " Now we want to shift things back."
+    },
+    {
+      "number": 118,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 334.76,
+      "end": 336.24,
+      "text": " So we have one more translation."
+    },
+    {
+      "number": 119,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 336.24,
+      "end": 339.21999999999997,
+      "text": " We essentially want to do that previous translation."
+    },
+    {
+      "number": 120,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 339.8,
+      "end": 343.04,
+      "text": " We now want to do the last one where we add three to the x"
+    },
+    {
+      "number": 121,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 343.04,
+      "end": 345.12,
+      "text": " and we subtract five from the y"
+    },
+    {
+      "number": 122,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 345.12,
+      "end": 349.26000000000005,
+      "text": " to be able to shift our origin back to negative three,"
+    },
+    {
+      "number": 123,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 349.26000000000005,
+      "end": 352.64000000000004,
+      "text": " comma, or I should say three comma negative five."
+    },
+    {
+      "number": 124,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 352.64000000000004,
+      "end": 356.24,
+      "text": " And so our last one, actually let me just draw it."
+    },
+    {
+      "number": 125,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 356.24,
+      "end": 360.64000000000004,
+      "text": " We can shift everything to the right by three and down five."
+    },
+    {
+      "number": 126,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 360.64000000000004,
+      "end": 365.44000000000005,
+      "text": " To the right by three and one, two, three, four, five."
+    },
+    {
+      "number": 127,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 366.44,
+      "end": 370.7,
+      "text": " To the right by three, one, two, three, down five."
+    },
+    {
+      "number": 128,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 370.7,
+      "end": 374.54,
+      "text": " One, two, three, four, five."
+    },
+    {
+      "number": 129,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 374.54,
+      "end": 379.54,
+      "text": " To the right by three, down one, two, three, four, five."
+    },
+    {
+      "number": 130,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 379.82,
+      "end": 381.7,
+      "text": " And so that's where our triangle will end up"
+    },
+    {
+      "number": 131,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 381.7,
+      "end": 382.6,
+      "text": " on the drawing part."
+    },
+    {
+      "number": 132,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 382.6,
+      "end": 385.26,
+      "text": " I copy and pasted this from Khan Academy."
+    },
+    {
+      "number": 133,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 385.26,
+      "end": 388.86,
+      "text": " You have a tool there to actually move things around"
+    },
+    {
+      "number": 134,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 388.86,
+      "end": 390.14,
+      "text": " with your mouse."
+    },
+    {
+      "number": 135,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 390.14,
+      "end": 391.22,
+      "text": " But this is where we end up."
+    },
+    {
+      "number": 136,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 391.22,
+      "end": 394.06,
+      "text": " And then that last transformation we just did,"
+    },
+    {
+      "number": 137,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 394.06,
+      "end": 395.26,
+      "text": " we shifted everything back."
+    },
+    {
+      "number": 138,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 395.96,
+      "end": 396.78,
+      "text": " We undid that."
+    },
+    {
+      "number": 139,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 396.78,
+      "end": 398.8,
+      "text": " So our last transformation,"
+    },
+    {
+      "number": 140,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 398.8,
+      "end": 403.56,
+      "text": " when we combine all of these transformations,"
+    },
+    {
+      "number": 141,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 403.56,
+      "end": 408.24,
+      "text": " I am now going to take whatever my x is, which was that,"
+    },
+    {
+      "number": 142,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 408.24,
+      "end": 411.56,
+      "text": " and now I'm going to shift it to the right by three."
+    },
+    {
+      "number": 143,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 411.56,
+      "end": 413.88,
+      "text": " I'm undoing this right over here."
+    },
+    {
+      "number": 144,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 413.88,
+      "end": 416.71999999999997,
+      "text": " And then I'm gonna take whatever my y value is,"
+    },
+    {
+      "number": 145,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 416.71999999999997,
+      "end": 421.71999999999997,
+      "text": " x minus three, and I'm going to shift it down by five."
+    },
+    {
+      "number": 146,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 421.71999999999997,
+      "end": 423.68,
+      "text": " Minus five."
+    },
+    {
+      "number": 147,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 423.68,
+      "end": 425.14,
+      "text": " And then we could simplify this."
+    },
+    {
+      "number": 148,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 425.97999999999996,
+      "end": 427.38,
+      "text": " We could say x comma y."
+    },
+    {
+      "number": 149,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 429.53999999999996,
+      "end": 433.64,
+      "text": " It gets transformed to, let's see, this is negative y."
+    },
+    {
+      "number": 150,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 433.64,
+      "end": 434.47999999999996,
+      "text": " Let me just write it out."
+    },
+    {
+      "number": 151,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 434.47999999999996,
+      "end": 437.46,
+      "text": " Negative y minus five plus three."
+    },
+    {
+      "number": 152,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 437.46,
+      "end": 439.26,
+      "text": " And then x minus three minus five."
+    },
+    {
+      "number": 153,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 439.26,
+      "end": 441.28,
+      "text": " This is x minus eight."
+    },
+    {
+      "number": 154,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 441.28,
+      "end": 443.32,
+      "text": " And then let's see, this becomes,"
+    },
+    {
+      "number": 155,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 443.32,
+      "end": 444.41999999999996,
+      "text": " let me just write it over here."
+    },
+    {
+      "number": 156,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 444.41999999999996,
+      "end": 449.41999999999996,
+      "text": " This is negative y minus five plus three is minus two."
+    },
+    {
+      "number": 157,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 450.09999999999997,
+      "end": 453.5,
+      "text": " And then this is x minus eight."
+    },
+    {
+      "number": 158,
+      "title": "Rotating algebraically about a point ｜ Geometry (TX TEKS) ｜ Khan Academy [c1qJuIxXOMY]",
+      "start": 453.5,
+      "end": 455.06,
+      "text": " And we are done."
+    }
+  ],
+  "full_text": " We're told to graph the image of triangle ABC after rotation by 90 degrees counterclockwise about the point three comma negative five. And then later when we're done, they're gonna want us to describe the rotation in coordinate notation. So pause this video, see if you could have a go at this before we do this together. All right, now let's work on this together. So in other videos, other examples, we've done pure rotations about the origin. What's different here is that we're rotating about the point three comma negative five. So one way to handle this, and in my mind, this is the easiest way to handle this, is to start by shifting the entire axis, do a translation so that three negative five goes to the origin. Then we do our rotation the way that we have seen in other videos, and then we shift everything back. We essentially undo that translation. And the whole time, we should be keeping track of the rotation in coordinate notation. So what do I mean by that? So let's just start first by shifting. So if we're rotating around three comma negative five, so three negative five is right over here. If we wanted to move that point and everything along with it to the origin, I want to shift to the left by three. So whatever x-coordinate I have, I want to subtract three. And whatever y-coordinate I have, I want to add five to move that to the origin. So the first transformation I want to do is this translation. So I'll say x comma y. Whatever x is, I want to shift it to x minus three. And whatever y is, I want to shift it to y plus five. So now, the point three comma negative five, it gets mapped onto the origin. And let's think about where everything else gets mapped to. Well, point C right over here, we're shifting three to the left, one, two, three, and up five, one, two, three, four, five. So it will go right over there. Point B, three to the left, and up one, two, three, four, five. It goes there. And then point A, three to the left, and one, two, three, four, five up. So now, our triangle is right over here. And now, the next thing we want to do is rotate 90 degrees counterclockwise around this point, which is now the origin, which we have seen before. And I always like to remind myself, some of you already might know what that transformation looks like, but I always remind myself, if I'm at, say, the point, well, let's just say the point four or zero, four. So let's say I'm at the point zero, four right over here. If I'm rotating 90 degrees counterclockwise, it's going to rotate over here. I'm going counterclockwise by 90 degrees. So it becomes, it goes to the point negative four comma zero. So that reminds me, and you could try that with other points, but we've seen this before. I'm not proving it to you, but I'm just making sure I'm doing the, the transformation in my mind is the one that makes sense here. Whatever my x and y is, when I do a rotation 90 degrees counterclockwise, I then take the negative of the y, and that becomes my x. So the y was four. I now have a negative four as my x. And whatever was the x now becomes my y. And we could try this with other points if you like. Now, we aren't just doing this rotation only. We're doing this rotation on top of this translation that we've already done. So if we want to do that rotation, let us now write the coordinate notation. So x comma y is now going to be, after we do the translation and the rotation, we're going to do this transformation with these coordinates here. So what was my y, I'm going to take the negative of that. So negative y plus five. And what was my x now becomes my y. So x minus three. And now let us draw that. So if this point, let me do this in a red color. If the point, if we had this point here, which was originally our C, we could call this C prime or our first C prime, whatever we want to call it. If we now do this transformation, so my coordinate right over here, let me write it. This is negative four comma five. It's now going to be negative five comma, negative five comma negative four. So it's negative five comma negative four. It goes right there. This point right over here is the point one comma 11. After the transformation, it's going to become the point negative 11 comma one, negative 11 comma one. It goes right over there. This is the point four comma eight. After transformation, it is going to be the point negative eight comma four, negative eight comma four. So now our triangle has been mapped to this. This is after that rotation. Now about the origin. But now we want to shift things. Now we want to shift things back. So we have one more translation. We essentially want to do that previous translation. We now want to do the last one where we add three to the x and we subtract five from the y to be able to shift our origin back to negative three, comma, or I should say three comma negative five. And so our last one, actually let me just draw it. We can shift everything to the right by three and down five. To the right by three and one, two, three, four, five. To the right by three, one, two, three, down five. One, two, three, four, five. To the right by three, down one, two, three, four, five. And so that's where our triangle will end up on the drawing part. I copy and pasted this from Khan Academy. You have a tool there to actually move things around with your mouse. But this is where we end up. And then that last transformation we just did, we shifted everything back. We undid that. So our last transformation, when we combine all of these transformations, I am now going to take whatever my x is, which was that, and now I'm going to shift it to the right by three. I'm undoing this right over here. And then I'm gonna take whatever my y value is, x minus three, and I'm going to shift it down by five. Minus five. And then we could simplify this. We could say x comma y. It gets transformed to, let's see, this is negative y. Let me just write it out. Negative y minus five plus three. And then x minus three minus five. This is x minus eight. And then let's see, this becomes, let me just write it over here. This is negative y minus five plus three is minus two. And then this is x minus eight. And we are done."
+}

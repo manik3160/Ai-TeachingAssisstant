@@ -1,0 +1,650 @@
+{
+  "file": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA].mp4",
+  "chunks": [
+    {
+      "number": 1,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 0.0,
+      "end": 2.92,
+      "text": " So what we wanna prove in this video"
+    },
+    {
+      "number": 2,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 2.92,
+      "end": 5.8,
+      "text": " is that the angle formed by intersecting chords,"
+    },
+    {
+      "number": 3,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 5.8,
+      "end": 8.28,
+      "text": " so we have two intersecting chords right over here,"
+    },
+    {
+      "number": 4,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 8.28,
+      "end": 10.68,
+      "text": " and so the angles formed by those intersecting chords,"
+    },
+    {
+      "number": 5,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 10.68,
+      "end": 12.200000000000001,
+      "text": " we could pick different angles,"
+    },
+    {
+      "number": 6,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 12.200000000000001,
+      "end": 14.5,
+      "text": " but let's say we looked at this angle here"
+    },
+    {
+      "number": 7,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 14.5,
+      "end": 16.2,
+      "text": " that has a measure of x,"
+    },
+    {
+      "number": 8,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 16.2,
+      "end": 18.16,
+      "text": " and of course that would be the same as this angle here"
+    },
+    {
+      "number": 9,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 18.16,
+      "end": 19.12,
+      "text": " because they're vertical angles"
+    },
+    {
+      "number": 10,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 19.12,
+      "end": 20.84,
+      "text": " that also has a measure of x."
+    },
+    {
+      "number": 11,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 20.84,
+      "end": 23.36,
+      "text": " Let's just focus on this one up here."
+    },
+    {
+      "number": 12,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 23.36,
+      "end": 27.400000000000002,
+      "text": " What we wanna do is prove that x,"
+    },
+    {
+      "number": 13,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 27.4,
+      "end": 28.959999999999997,
+      "text": " the measure of that angle,"
+    },
+    {
+      "number": 14,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 28.959999999999997,
+      "end": 32.36,
+      "text": " is equal to half the sum"
+    },
+    {
+      "number": 15,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 32.36,
+      "end": 35.839999999999996,
+      "text": " of the measures of the intercepted arcs."
+    },
+    {
+      "number": 16,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 35.839999999999996,
+      "end": 36.68,
+      "text": " So what do I mean?"
+    },
+    {
+      "number": 17,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 36.68,
+      "end": 40.44,
+      "text": " Half the sum of the measures of the intercepted arcs."
+    },
+    {
+      "number": 18,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 40.44,
+      "end": 45.36,
+      "text": " So let's say the measure of this arc is theta"
+    },
+    {
+      "number": 19,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 45.36,
+      "end": 50.36,
+      "text": " and the measure of this arc right over here is phi."
+    },
+    {
+      "number": 20,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 52.36,
+      "end": 56.04,
+      "text": " So then we wanna prove that the measure of this angle,"
+    },
+    {
+      "number": 21,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 56.04,
+      "end": 60.72,
+      "text": " this angle formed by the intersecting chords AE and BD,"
+    },
+    {
+      "number": 22,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 60.72,
+      "end": 62.44,
+      "text": " so that measure right there,"
+    },
+    {
+      "number": 23,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 62.44,
+      "end": 65.44,
+      "text": " that it's equal to half the sum"
+    },
+    {
+      "number": 24,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 65.44,
+      "end": 69.2,
+      "text": " of the measure of the intercepted arcs."
+    },
+    {
+      "number": 25,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 69.2,
+      "end": 72.84,
+      "text": " So theta, let me do that in the red color,"
+    },
+    {
+      "number": 26,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 72.84,
+      "end": 77.5,
+      "text": " theta plus phi."
+    },
+    {
+      "number": 27,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 77.5,
+      "end": 79.16,
+      "text": " So if you are so inspired,"
+    },
+    {
+      "number": 28,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 79.16,
+      "end": 81.68,
+      "text": " I encourage you to pause the video and have a go at it."
+    },
+    {
+      "number": 29,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 81.68,
+      "end": 85.6,
+      "text": " Otherwise, I will proceed."
+    },
+    {
+      "number": 30,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 85.6,
+      "end": 89.75999999999999,
+      "text": " Now, to help us do this, I will set up a new triangle."
+    },
+    {
+      "number": 31,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 89.75999999999999,
+      "end": 94.32,
+      "text": " I'll draw another chord that goes from A to D,"
+    },
+    {
+      "number": 32,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 94.32,
+      "end": 96.0,
+      "text": " just like that."
+    },
+    {
+      "number": 33,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 96.0,
+      "end": 98.8,
+      "text": " And in other places, we have shown"
+    },
+    {
+      "number": 34,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 98.8,
+      "end": 101.36,
+      "text": " that if you have an inscribed angle,"
+    },
+    {
+      "number": 35,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 101.36,
+      "end": 104.8,
+      "text": " so for example, angle ADC."
+    },
+    {
+      "number": 36,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 104.8,
+      "end": 106.58,
+      "text": " So in other places, we have shown"
+    },
+    {
+      "number": 37,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 106.58,
+      "end": 108.6,
+      "text": " that the measure of an inscribed angle,"
+    },
+    {
+      "number": 38,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 108.6,
+      "end": 111.16,
+      "text": " in this case, ADB,"
+    },
+    {
+      "number": 39,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 111.16,
+      "end": 114.1,
+      "text": " is going to be half the measure"
+    },
+    {
+      "number": 40,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 114.1,
+      "end": 117.47999999999999,
+      "text": " of the arc that it intersects."
+    },
+    {
+      "number": 41,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 117.47999999999999,
+      "end": 121.39999999999999,
+      "text": " So it's going to be half of theta."
+    },
+    {
+      "number": 42,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 121.39999999999999,
+      "end": 123.16,
+      "text": " So the measure of this,"
+    },
+    {
+      "number": 43,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 123.16,
+      "end": 124.88,
+      "text": " let me just write this over here."
+    },
+    {
+      "number": 44,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 124.88,
+      "end": 127.19999999999999,
+      "text": " Just to make it clear, it's not the same as that one."
+    },
+    {
+      "number": 45,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 127.19999999999999,
+      "end": 128.26,
+      "text": " I'll do two over here."
+    },
+    {
+      "number": 46,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 128.26,
+      "end": 133.04,
+      "text": " This is 1 1⁄2 of theta."
+    },
+    {
+      "number": 47,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 133.04,
+      "end": 135.0,
+      "text": " And by that same logic,"
+    },
+    {
+      "number": 48,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 135.0,
+      "end": 140.0,
+      "text": " this angle over here is going to be 1 1⁄2 of phi,"
+    },
+    {
+      "number": 49,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 140.96,
+      "end": 143.84,
+      "text": " 1 1⁄2 of phi."
+    },
+    {
+      "number": 50,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 143.84,
+      "end": 147.08,
+      "text": " I could write over here, measure of angle DAC."
+    },
+    {
+      "number": 51,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 147.08,
+      "end": 151.46,
+      "text": " DAC is equal to 1 1⁄2 of phi."
+    },
+    {
+      "number": 52,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 151.46,
+      "end": 154.28,
+      "text": " Now, what's going to be the measure of,"
+    },
+    {
+      "number": 53,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 154.28,
+      "end": 156.24,
+      "text": " I'm looking for a new color here."
+    },
+    {
+      "number": 54,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 156.24,
+      "end": 157.4,
+      "text": " What's going to be the measure"
+    },
+    {
+      "number": 55,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 157.4,
+      "end": 158.84,
+      "text": " of this angle right over here?"
+    },
+    {
+      "number": 56,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 158.84,
+      "end": 161.96,
+      "text": " Well, we know that the sum of the angles"
+    },
+    {
+      "number": 57,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 161.96,
+      "end": 164.84,
+      "text": " of a triangle add up to 180."
+    },
+    {
+      "number": 58,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 164.84,
+      "end": 169.44,
+      "text": " So it's going to be 180 minus 1 1⁄2 phi."
+    },
+    {
+      "number": 59,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 170.52,
+      "end": 171.92,
+      "text": " Or 1 1⁄2 theta, I should say."
+    },
+    {
+      "number": 60,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 171.92,
+      "end": 175.56,
+      "text": " Minus 1 1⁄2 theta minus 1 1⁄2 phi."
+    },
+    {
+      "number": 61,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 175.56,
+      "end": 178.12,
+      "text": " Minus 1 1⁄2 phi."
+    },
+    {
+      "number": 62,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 178.12,
+      "end": 180.08,
+      "text": " Now, what's x going to be?"
+    },
+    {
+      "number": 63,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 180.08,
+      "end": 181.6,
+      "text": " Well, x is going to be,"
+    },
+    {
+      "number": 64,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 181.6,
+      "end": 183.86,
+      "text": " notice x and this angle over here,"
+    },
+    {
+      "number": 65,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 183.86,
+      "end": 186.0,
+      "text": " I guess I'll call it this orange angle."
+    },
+    {
+      "number": 66,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 186.0,
+      "end": 189.48,
+      "text": " X and this orange angle are supplementary."
+    },
+    {
+      "number": 67,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 189.48,
+      "end": 193.24,
+      "text": " They add up to 180 degrees."
+    },
+    {
+      "number": 68,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 193.24,
+      "end": 194.68,
+      "text": " So another way I could say this,"
+    },
+    {
+      "number": 69,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 194.68,
+      "end": 196.84,
+      "text": " if I took this angle, this orange angle,"
+    },
+    {
+      "number": 70,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 196.84,
+      "end": 198.72,
+      "text": " and if I added x to it,"
+    },
+    {
+      "number": 71,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 198.72,
+      "end": 202.9,
+      "text": " that should be equal to 180 degrees."
+    },
+    {
+      "number": 72,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 202.9,
+      "end": 205.04,
+      "text": " Well, now we just do a little bit of algebra."
+    },
+    {
+      "number": 73,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 205.04,
+      "end": 208.8,
+      "text": " We can subtract 180 degrees from both sides"
+    },
+    {
+      "number": 74,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 208.8,
+      "end": 212.76,
+      "text": " and we could get, and I'll just do this in one color now."
+    },
+    {
+      "number": 75,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 212.76,
+      "end": 216.2,
+      "text": " We have negative 1 1⁄2 theta minus 1 1⁄2,"
+    },
+    {
+      "number": 76,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 216.2,
+      "end": 217.88,
+      "text": " that should be a phi over there."
+    },
+    {
+      "number": 77,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 217.88,
+      "end": 219.76,
+      "text": " I'm getting my thetas in."
+    },
+    {
+      "number": 78,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 219.76,
+      "end": 222.4,
+      "text": " Minus 1 1⁄2 phi."
+    },
+    {
+      "number": 79,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 222.4,
+      "end": 226.76,
+      "text": " Minus 1 1⁄2 phi plus x is equal to zero."
+    },
+    {
+      "number": 80,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 226.84,
+      "end": 229.84,
+      "text": " And then what we could do is we could add,"
+    },
+    {
+      "number": 81,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 229.84,
+      "end": 230.88,
+      "text": " well, we could do it either way."
+    },
+    {
+      "number": 82,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 230.88,
+      "end": 234.04,
+      "text": " We could add these to both sides or add,"
+    },
+    {
+      "number": 83,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 234.04,
+      "end": 235.34,
+      "text": " let me just do it this way."
+    },
+    {
+      "number": 84,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 235.34,
+      "end": 240.34,
+      "text": " So plus 1 1⁄2 theta plus 1 1⁄2 phi."
+    },
+    {
+      "number": 85,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 240.39999999999998,
+      "end": 241.72,
+      "text": " I'm gonna do add that over here."
+    },
+    {
+      "number": 86,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 241.72,
+      "end": 246.56,
+      "text": " Plus 1 1⁄2 theta plus 1 1⁄2 phi."
+    },
+    {
+      "number": 87,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 246.56,
+      "end": 249.6,
+      "text": " Oop, you can't see that, so let me do it a little bit."
+    },
+    {
+      "number": 88,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 249.6,
+      "end": 254.6,
+      "text": " So plus 1 1⁄2 theta plus 1 1⁄2 phi."
+    },
+    {
+      "number": 89,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 255.6,
+      "end": 257.84,
+      "text": " And so what are we left with?"
+    },
+    {
+      "number": 90,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 257.84,
+      "end": 262.84,
+      "text": " We're left with x is equal to 1 1⁄2 theta plus 1 1⁄2 phi,"
+    },
+    {
+      "number": 91,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 263.4,
+      "end": 268.4,
+      "text": " which is the same thing as 1 1⁄2 theta plus phi."
+    },
+    {
+      "number": 92,
+      "title": "Proof： Angle formed by intersecting chords ｜ Geometry (TX TEKS) ｜ Khan Academy [nxHUx1o8-sA]",
+      "start": 268.48,
+      "end": 269.8,
+      "text": " And we are done."
+    }
+  ],
+  "full_text": " So what we wanna prove in this video is that the angle formed by intersecting chords, so we have two intersecting chords right over here, and so the angles formed by those intersecting chords, we could pick different angles, but let's say we looked at this angle here that has a measure of x, and of course that would be the same as this angle here because they're vertical angles that also has a measure of x. Let's just focus on this one up here. What we wanna do is prove that x, the measure of that angle, is equal to half the sum of the measures of the intercepted arcs. So what do I mean? Half the sum of the measures of the intercepted arcs. So let's say the measure of this arc is theta and the measure of this arc right over here is phi. So then we wanna prove that the measure of this angle, this angle formed by the intersecting chords AE and BD, so that measure right there, that it's equal to half the sum of the measure of the intercepted arcs. So theta, let me do that in the red color, theta plus phi. So if you are so inspired, I encourage you to pause the video and have a go at it. Otherwise, I will proceed. Now, to help us do this, I will set up a new triangle. I'll draw another chord that goes from A to D, just like that. And in other places, we have shown that if you have an inscribed angle, so for example, angle ADC. So in other places, we have shown that the measure of an inscribed angle, in this case, ADB, is going to be half the measure of the arc that it intersects. So it's going to be half of theta. So the measure of this, let me just write this over here. Just to make it clear, it's not the same as that one. I'll do two over here. This is 1 1⁄2 of theta. And by that same logic, this angle over here is going to be 1 1⁄2 of phi, 1 1⁄2 of phi. I could write over here, measure of angle DAC. DAC is equal to 1 1⁄2 of phi. Now, what's going to be the measure of, I'm looking for a new color here. What's going to be the measure of this angle right over here? Well, we know that the sum of the angles of a triangle add up to 180. So it's going to be 180 minus 1 1⁄2 phi. Or 1 1⁄2 theta, I should say. Minus 1 1⁄2 theta minus 1 1⁄2 phi. Minus 1 1⁄2 phi. Now, what's x going to be? Well, x is going to be, notice x and this angle over here, I guess I'll call it this orange angle. X and this orange angle are supplementary. They add up to 180 degrees. So another way I could say this, if I took this angle, this orange angle, and if I added x to it, that should be equal to 180 degrees. Well, now we just do a little bit of algebra. We can subtract 180 degrees from both sides and we could get, and I'll just do this in one color now. We have negative 1 1⁄2 theta minus 1 1⁄2, that should be a phi over there. I'm getting my thetas in. Minus 1 1⁄2 phi. Minus 1 1⁄2 phi plus x is equal to zero. And then what we could do is we could add, well, we could do it either way. We could add these to both sides or add, let me just do it this way. So plus 1 1⁄2 theta plus 1 1⁄2 phi. I'm gonna do add that over here. Plus 1 1⁄2 theta plus 1 1⁄2 phi. Oop, you can't see that, so let me do it a little bit. So plus 1 1⁄2 theta plus 1 1⁄2 phi. And so what are we left with? We're left with x is equal to 1 1⁄2 theta plus 1 1⁄2 phi, which is the same thing as 1 1⁄2 theta plus phi. And we are done."
+}

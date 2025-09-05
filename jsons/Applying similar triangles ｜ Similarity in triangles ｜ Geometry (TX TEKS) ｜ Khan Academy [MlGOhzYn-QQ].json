@@ -1,0 +1,959 @@
+
+{
+  "file": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ].mp4",
+  "chunks": [
+    {
+      "number": 1,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 0.0,
+      "end": 2.4,
+      "text": " We're told a six meter high building"
+    },
+    {
+      "number": 2,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 2.4,
+      "end": 6.2,
+      "text": " casts a 10 meter shadow on level ground."
+    },
+    {
+      "number": 3,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 6.2,
+      "end": 10.02,
+      "text": " A person 165 centimeters tall"
+    },
+    {
+      "number": 4,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 10.02,
+      "end": 12.02,
+      "text": " wants to stand in the shade"
+    },
+    {
+      "number": 5,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 12.02,
+      "end": 15.64,
+      "text": " as far away from the building as possible."
+    },
+    {
+      "number": 6,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 15.64,
+      "end": 17.78,
+      "text": " What is this distance?"
+    },
+    {
+      "number": 7,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 17.78,
+      "end": 19.14,
+      "text": " Pause this video, have a go at this"
+    },
+    {
+      "number": 8,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 19.14,
+      "end": 20.6,
+      "text": " before we do this together."
+    },
+    {
+      "number": 9,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 21.6,
+      "end": 25.080000000000002,
+      "text": " All right, so let's first think about the building."
+    },
+    {
+      "number": 10,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 25.080000000000002,
+      "end": 27.52,
+      "text": " So a six meter high building,"
+    },
+    {
+      "number": 11,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 27.52,
+      "end": 31.28,
+      "text": " so maybe this is the building right over here."
+    },
+    {
+      "number": 12,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 31.28,
+      "end": 35.28,
+      "text": " Six meters, just like that."
+    },
+    {
+      "number": 13,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 35.28,
+      "end": 37.42,
+      "text": " So this distance right over here is six meters."
+    },
+    {
+      "number": 14,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 37.42,
+      "end": 39.44,
+      "text": " I really just needed to draw one wall of the building,"
+    },
+    {
+      "number": 15,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 39.44,
+      "end": 41.379999999999995,
+      "text": " so that's six meters."
+    },
+    {
+      "number": 16,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 41.379999999999995,
+      "end": 44.86,
+      "text": " Cast a 10 meter shadow on level ground."
+    },
+    {
+      "number": 17,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 44.86,
+      "end": 46.8,
+      "text": " 10 meter shadow on level ground,"
+    },
+    {
+      "number": 18,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 46.8,
+      "end": 49.32,
+      "text": " so that could look something like this."
+    },
+    {
+      "number": 19,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 49.32,
+      "end": 51.879999999999995,
+      "text": " So 10 meters looks something like this."
+    },
+    {
+      "number": 20,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 51.879999999999995,
+      "end": 56.239999999999995,
+      "text": " So this distance right over here is 10 meters."
+    },
+    {
+      "number": 21,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 56.24,
+      "end": 60.400000000000006,
+      "text": " We're assuming that the sunlight is coming like this."
+    },
+    {
+      "number": 22,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 60.400000000000006,
+      "end": 63.24,
+      "text": " And actually, let me draw the light."
+    },
+    {
+      "number": 23,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 63.24,
+      "end": 66.72,
+      "text": " So the light is coming in and the shadow casts."
+    },
+    {
+      "number": 24,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 66.72,
+      "end": 69.04,
+      "text": " And so anything,"
+    },
+    {
+      "number": 25,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 69.04,
+      "end": 70.56,
+      "text": " oh, let me draw it a little bit better than that."
+    },
+    {
+      "number": 26,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 70.56,
+      "end": 73.92,
+      "text": " So connect those dots, there you go."
+    },
+    {
+      "number": 27,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 73.92,
+      "end": 75.3,
+      "text": " So one way to think about it is"
+    },
+    {
+      "number": 28,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 75.3,
+      "end": 77.5,
+      "text": " there's all the light is coming up here."
+    },
+    {
+      "number": 29,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 77.5,
+      "end": 79.44,
+      "text": " It's not being blocked by the building."
+    },
+    {
+      "number": 30,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 79.44,
+      "end": 80.96000000000001,
+      "text": " And what we're thinking about is a person"
+    },
+    {
+      "number": 31,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 80.96000000000001,
+      "end": 85.6,
+      "text": " that's 165 centimeters tall, and how far can they walk?"
+    },
+    {
+      "number": 32,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 85.6,
+      "end": 89.08,
+      "text": " Well, they can walk until their head starts to poke through"
+    },
+    {
+      "number": 33,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 89.08,
+      "end": 91.32,
+      "text": " and get some of that light."
+    },
+    {
+      "number": 34,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 91.32,
+      "end": 96.03999999999999,
+      "text": " So 165 centimeters, that's 1.65 meters."
+    },
+    {
+      "number": 35,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 96.03999999999999,
+      "end": 98.88,
+      "text": " And actually, let me just do everything in meters"
+    },
+    {
+      "number": 36,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 98.88,
+      "end": 101.28,
+      "text": " so that we don't get ourselves confused."
+    },
+    {
+      "number": 37,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 101.28,
+      "end": 104.75999999999999,
+      "text": " So 1.65 meters, and I'm just eyeballing it."
+    },
+    {
+      "number": 38,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 104.75999999999999,
+      "end": 106.39999999999999,
+      "text": " This isn't drawn to scale."
+    },
+    {
+      "number": 39,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 106.39999999999999,
+      "end": 108.8,
+      "text": " Might put us right about here."
+    },
+    {
+      "number": 40,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 108.8,
+      "end": 113.8,
+      "text": " So one point, so this distance is 1.65 meters."
+    },
+    {
+      "number": 41,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 114.8,
+      "end": 116.36,
+      "text": " That's the person's height."
+    },
+    {
+      "number": 42,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 116.36,
+      "end": 119.42,
+      "text": " So there's their head, their arms, their feet."
+    },
+    {
+      "number": 43,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 119.42,
+      "end": 121.75999999999999,
+      "text": " Okay, you get the idea."
+    },
+    {
+      "number": 44,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 121.75999999999999,
+      "end": 125.0,
+      "text": " So the question is, is what is this distance?"
+    },
+    {
+      "number": 45,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 125.0,
+      "end": 127.72,
+      "text": " They wanna go as far away from the building as possible."
+    },
+    {
+      "number": 46,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 127.72,
+      "end": 129.24,
+      "text": " If they go any further,"
+    },
+    {
+      "number": 47,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 129.24,
+      "end": 130.82,
+      "text": " their head's going to dip into the sun."
+    },
+    {
+      "number": 48,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 130.82,
+      "end": 132.0,
+      "text": " They're not going to be fully in the shadow."
+    },
+    {
+      "number": 49,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 132.0,
+      "end": 132.84,
+      "text": " If they get any closer,"
+    },
+    {
+      "number": 50,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 132.84,
+      "end": 134.34,
+      "text": " they're not as far away as possible."
+    },
+    {
+      "number": 51,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 134.34,
+      "end": 137.51999999999998,
+      "text": " So that distance is x."
+    },
+    {
+      "number": 52,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 137.51999999999998,
+      "end": 140.44,
+      "text": " So you might be thinking, hey, these,"
+    },
+    {
+      "number": 53,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 140.44,
+      "end": 142.06,
+      "text": " it looks like we might be dealing"
+    },
+    {
+      "number": 54,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 142.06,
+      "end": 146.36,
+      "text": " with some form of a similar triangle here."
+    },
+    {
+      "number": 55,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 146.36,
+      "end": 147.62,
+      "text": " And you would be correct."
+    },
+    {
+      "number": 56,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 147.62,
+      "end": 150.06,
+      "text": " And the way to think about that is we have a lot of,"
+    },
+    {
+      "number": 57,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 150.06,
+      "end": 151.66,
+      "text": " there's many ways you could approach it,"
+    },
+    {
+      "number": 58,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 151.66,
+      "end": 155.54,
+      "text": " but you could think, all right, I have this larger triangle."
+    },
+    {
+      "number": 59,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 155.54,
+      "end": 158.96,
+      "text": " I have this larger triangle right over here."
+    },
+    {
+      "number": 60,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 160.0,
+      "end": 162.8,
+      "text": " This is a right angle, and let's call,"
+    },
+    {
+      "number": 61,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 162.8,
+      "end": 165.02,
+      "text": " let's just, that's some angle right over there."
+    },
+    {
+      "number": 62,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 165.02,
+      "end": 166.82,
+      "text": " And so let me draw that separately."
+    },
+    {
+      "number": 63,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 166.82,
+      "end": 169.12,
+      "text": " So I have that larger triangle."
+    },
+    {
+      "number": 64,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 170.12,
+      "end": 174.08,
+      "text": " And so I have that angle, and I have that right angle."
+    },
+    {
+      "number": 65,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 174.08,
+      "end": 177.36,
+      "text": " And then I also have, let me do this in another color."
+    },
+    {
+      "number": 66,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 177.36,
+      "end": 179.96,
+      "text": " I also have this smaller triangle"
+    },
+    {
+      "number": 67,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 179.96,
+      "end": 181.56,
+      "text": " where that person is one side of it."
+    },
+    {
+      "number": 68,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 181.56,
+      "end": 183.4,
+      "text": " And really you could think of it as the person's shadow"
+    },
+    {
+      "number": 69,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 183.4,
+      "end": 184.94,
+      "text": " is the other side of it."
+    },
+    {
+      "number": 70,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 184.94,
+      "end": 186.44,
+      "text": " So I also have this smaller triangle,"
+    },
+    {
+      "number": 71,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 186.44,
+      "end": 188.56,
+      "text": " but this is also going to be a right angle."
+    },
+    {
+      "number": 72,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 188.56,
+      "end": 190.88,
+      "text": " So the smaller triangle looks like this."
+    },
+    {
+      "number": 73,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 191.86,
+      "end": 193.36,
+      "text": " It looks like this."
+    },
+    {
+      "number": 74,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 193.36,
+      "end": 194.24,
+      "text": " You have a right angle,"
+    },
+    {
+      "number": 75,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 194.24,
+      "end": 196.0,
+      "text": " and they both share this angle right over here."
+    },
+    {
+      "number": 76,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 196.0,
+      "end": 197.36,
+      "text": " So that's common."
+    },
+    {
+      "number": 77,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 197.36,
+      "end": 199.06,
+      "text": " Well, we know if you have two triangles"
+    },
+    {
+      "number": 78,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 200.0,
+      "end": 200.82,
+      "text": " that have two angles in common,"
+    },
+    {
+      "number": 79,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 200.82,
+      "end": 201.96,
+      "text": " they're going to be similar."
+    },
+    {
+      "number": 80,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 201.96,
+      "end": 203.46,
+      "text": " In fact, you also know that the third angle"
+    },
+    {
+      "number": 81,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 203.46,
+      "end": 204.58,
+      "text": " is also going to be in common"
+    },
+    {
+      "number": 82,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 204.58,
+      "end": 206.82,
+      "text": " because you could figure that out based on the other two."
+    },
+    {
+      "number": 83,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 206.82,
+      "end": 208.46,
+      "text": " So when you have all of the angles"
+    },
+    {
+      "number": 84,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 208.46,
+      "end": 212.7,
+      "text": " of two triangles being congruent or having the same measure,"
+    },
+    {
+      "number": 85,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 212.7,
+      "end": 214.38,
+      "text": " you have similar triangles."
+    },
+    {
+      "number": 86,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 214.38,
+      "end": 216.74,
+      "text": " And that means that the corresponding sides"
+    },
+    {
+      "number": 87,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 216.74,
+      "end": 219.46,
+      "text": " are going to be proportional."
+    },
+    {
+      "number": 88,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 219.46,
+      "end": 221.7,
+      "text": " So one way to think about it is,"
+    },
+    {
+      "number": 89,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 221.7,
+      "end": 224.3,
+      "text": " before we think about X, let's think about,"
+    },
+    {
+      "number": 90,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 224.3,
+      "end": 226.12,
+      "text": " I'll do a different letter here."
+    },
+    {
+      "number": 91,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 226.12,
+      "end": 228.7,
+      "text": " Let's call this distance right over here"
+    },
+    {
+      "number": 92,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 229.58,
+      "end": 231.7,
+      "text": " I don't know, let's call that Y."
+    },
+    {
+      "number": 93,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 231.7,
+      "end": 233.48,
+      "text": " So if we could figure out Y,"
+    },
+    {
+      "number": 94,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 233.48,
+      "end": 236.68,
+      "text": " we just subtract Y from 10 and we will figure out X."
+    },
+    {
+      "number": 95,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 236.68,
+      "end": 239.66,
+      "text": " So we already know that this height right over here"
+    },
+    {
+      "number": 96,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 239.66,
+      "end": 242.96,
+      "text": " is 1.65 meters."
+    },
+    {
+      "number": 97,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 242.96,
+      "end": 245.94,
+      "text": " We know that this distance right over here"
+    },
+    {
+      "number": 98,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 245.94,
+      "end": 248.26,
+      "text": " in the big triangle is 10 meters."
+    },
+    {
+      "number": 99,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 248.26,
+      "end": 250.14000000000001,
+      "text": " Actually, I'll just assume everything's in meters."
+    },
+    {
+      "number": 100,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 250.14000000000001,
+      "end": 253.88,
+      "text": " And we know that the height of building is six meters."
+    },
+    {
+      "number": 101,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 253.88,
+      "end": 255.1,
+      "text": " Six meters."
+    },
+    {
+      "number": 102,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 255.1,
+      "end": 256.14,
+      "text": " So one way to think about it,"
+    },
+    {
+      "number": 103,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 256.14,
+      "end": 259.2,
+      "text": " we could say Y over 1.65,"
+    },
+    {
+      "number": 104,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 259.2,
+      "end": 263.09999999999997,
+      "text": " Y over 1.65,"
+    },
+    {
+      "number": 105,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 263.09999999999997,
+      "end": 268.09999999999997,
+      "text": " 1.65 is going to be equal to,"
+    },
+    {
+      "number": 106,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 268.18,
+      "end": 269.58,
+      "text": " make sure I get the corresponding side."
+    },
+    {
+      "number": 107,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 269.58,
+      "end": 271.62,
+      "text": " So the long side here is 10."
+    },
+    {
+      "number": 108,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 271.62,
+      "end": 275.18,
+      "text": " It's going to be equal to 10 over six."
+    },
+    {
+      "number": 109,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 275.18,
+      "end": 276.94,
+      "text": " I probably shouldn't have reused the purple,"
+    },
+    {
+      "number": 110,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 276.94,
+      "end": 279.38,
+      "text": " but you get that, that's the six right over there."
+    },
+    {
+      "number": 111,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 279.38,
+      "end": 280.76,
+      "text": " And then to solve for Y,"
+    },
+    {
+      "number": 112,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 280.76,
+      "end": 283.62,
+      "text": " we just multiply both sides by 1.65."
+    },
+    {
+      "number": 113,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 283.62,
+      "end": 287.82,
+      "text": " 1.65 times that side and 1.65 times that side,"
+    },
+    {
+      "number": 114,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 287.82,
+      "end": 288.82,
+      "text": " that cancels."
+    },
+    {
+      "number": 115,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 288.82,
+      "end": 292.62,
+      "text": " And I get Y is equal to,"
+    },
+    {
+      "number": 116,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 292.62,
+      "end": 296.28000000000003,
+      "text": " let's see, 10 times 1.65 is 16.5."
+    },
+    {
+      "number": 117,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 296.28000000000003,
+      "end": 301.28000000000003,
+      "text": " So it's going to be 16.5 divided by six."
+    },
+    {
+      "number": 118,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 301.9,
+      "end": 303.82,
+      "text": " And I can get a calculator out for that."
+    },
+    {
+      "number": 119,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 303.82,
+      "end": 308.66,
+      "text": " 16.5 divided by six is equal to that."
+    },
+    {
+      "number": 120,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 308.66,
+      "end": 312.26,
+      "text": " Now you might say, oh, is the answer 2.75 meters?"
+    },
+    {
+      "number": 121,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 312.26,
+      "end": 313.7,
+      "text": " Well, we're close, but not quite."
+    },
+    {
+      "number": 122,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 313.7,
+      "end": 316.46,
+      "text": " Remember, Y is 2.75,"
+    },
+    {
+      "number": 123,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 316.46,
+      "end": 318.86,
+      "text": " but X, which is how far you can walk away from the building"
+    },
+    {
+      "number": 124,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 318.86,
+      "end": 322.15999999999997,
+      "text": " is going to be 10 minus 2.75."
+    },
+    {
+      "number": 125,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 322.15999999999997,
+      "end": 323.86,
+      "text": " So if you were to subtract that from 10,"
+    },
+    {
+      "number": 126,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 323.86,
+      "end": 325.7,
+      "text": " which you could probably do it in your head,"
+    },
+    {
+      "number": 127,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 325.7,
+      "end": 327.98,
+      "text": " you get 7.25."
+    },
+    {
+      "number": 128,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 327.98,
+      "end": 330.42,
+      "text": " So once again, we get Y,"
+    },
+    {
+      "number": 129,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 330.42,
+      "end": 334.62,
+      "text": " this distance right over here is 2.75."
+    },
+    {
+      "number": 130,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 334.62,
+      "end": 336.5,
+      "text": " But then if you want X,"
+    },
+    {
+      "number": 131,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 336.5,
+      "end": 339.96,
+      "text": " we get X, let me do X in that same red color."
+    },
+    {
+      "number": 132,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 340.96,
+      "end": 345.96,
+      "text": " X is equal to 10 meters"
+    },
+    {
+      "number": 133,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 347.68,
+      "end": 350.02,
+      "text": " minus 2.75 meters,"
+    },
+    {
+      "number": 134,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 351.34,
+      "end": 356.34,
+      "text": " which is equal to 7.25 meters."
+    },
+    {
+      "number": 135,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 356.97999999999996,
+      "end": 360.47999999999996,
+      "text": " So that's how far the person can walk away"
+    },
+    {
+      "number": 136,
+      "title": "Applying similar triangles ｜ Similarity in triangles ｜ Geometry (TX TEKS) ｜ Khan Academy [MlGOhzYn-QQ]",
+      "start": 360.47999999999996,
+      "end": 361.38,
+      "text": " from the building."
+    }
+  ],
+  "full_text": " We're told a six meter high building casts a 10 meter shadow on level ground. A person 165 centimeters tall wants to stand in the shade as far away from the building as possible. What is this distance? Pause this video, have a go at this before we do this together. All right, so let's first think about the building. So a six meter high building, so maybe this is the building right over here. Six meters, just like that. So this distance right over here is six meters. I really just needed to draw one wall of the building, so that's six meters. Cast a 10 meter shadow on level ground. 10 meter shadow on level ground, so that could look something like this. So 10 meters looks something like this. So this distance right over here is 10 meters. We're assuming that the sunlight is coming like this. And actually, let me draw the light. So the light is coming in and the shadow casts. And so anything, oh, let me draw it a little bit better than that. So connect those dots, there you go. So one way to think about it is there's all the light is coming up here. It's not being blocked by the building. And what we're thinking about is a person that's 165 centimeters tall, and how far can they walk? Well, they can walk until their head starts to poke through and get some of that light. So 165 centimeters, that's 1.65 meters. And actually, let me just do everything in meters so that we don't get ourselves confused. So 1.65 meters, and I'm just eyeballing it. This isn't drawn to scale. Might put us right about here. So one point, so this distance is 1.65 meters. That's the person's height. So there's their head, their arms, their feet. Okay, you get the idea. So the question is, is what is this distance? They wanna go as far away from the building as possible. If they go any further, their head's going to dip into the sun. They're not going to be fully in the shadow. If they get any closer, they're not as far away as possible. So that distance is x. So you might be thinking, hey, these, it looks like we might be dealing with some form of a similar triangle here. And you would be correct. And the way to think about that is we have a lot of, there's many ways you could approach it, but you could think, all right, I have this larger triangle. I have this larger triangle right over here. This is a right angle, and let's call, let's just, that's some angle right over there. And so let me draw that separately. So I have that larger triangle. And so I have that angle, and I have that right angle. And then I also have, let me do this in another color. I also have this smaller triangle where that person is one side of it. And really you could think of it as the person's shadow is the other side of it. So I also have this smaller triangle, but this is also going to be a right angle. So the smaller triangle looks like this. It looks like this. You have a right angle, and they both share this angle right over here. So that's common. Well, we know if you have two triangles that have two angles in common, they're going to be similar. In fact, you also know that the third angle is also going to be in common because you could figure that out based on the other two. So when you have all of the angles of two triangles being congruent or having the same measure, you have similar triangles. And that means that the corresponding sides are going to be proportional. So one way to think about it is, before we think about X, let's think about, I'll do a different letter here. Let's call this distance right over here I don't know, let's call that Y. So if we could figure out Y, we just subtract Y from 10 and we will figure out X. So we already know that this height right over here is 1.65 meters. We know that this distance right over here in the big triangle is 10 meters. Actually, I'll just assume everything's in meters. And we know that the height of building is six meters. Six meters. So one way to think about it, we could say Y over 1.65, Y over 1.65, 1.65 is going to be equal to, make sure I get the corresponding side. So the long side here is 10. It's going to be equal to 10 over six. I probably shouldn't have reused the purple, but you get that, that's the six right over there. And then to solve for Y, we just multiply both sides by 1.65. 1.65 times that side and 1.65 times that side, that cancels. And I get Y is equal to, let's see, 10 times 1.65 is 16.5. So it's going to be 16.5 divided by six. And I can get a calculator out for that. 16.5 divided by six is equal to that. Now you might say, oh, is the answer 2.75 meters? Well, we're close, but not quite. Remember, Y is 2.75, but X, which is how far you can walk away from the building is going to be 10 minus 2.75. So if you were to subtract that from 10, which you could probably do it in your head, you get 7.25. So once again, we get Y, this distance right over here is 2.75. But then if you want X, we get X, let me do X in that same red color. X is equal to 10 meters minus 2.75 meters, which is equal to 7.25 meters. So that's how far the person can walk away from the building."
+}

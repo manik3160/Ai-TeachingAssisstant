@@ -1,0 +1,454 @@
+{
+  "file": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY].mp4",
+  "chunks": [
+    {
+      "number": 1,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 0.0,
+      "end": 3.98,
+      "text": " we're told to graph the image of quadrilateral JKLM"
+    },
+    {
+      "number": 2,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 3.98,
+      "end": 7.98,
+      "text": " after a reflection over the line y equals x."
+    },
+    {
+      "number": 3,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 7.98,
+      "end": 11.06,
+      "text": " And then later we wanna describe the reflection"
+    },
+    {
+      "number": 4,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 11.06,
+      "end": 12.38,
+      "text": " in coordinate notation."
+    },
+    {
+      "number": 5,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 12.38,
+      "end": 14.4,
+      "text": " So pause this video, give this a try,"
+    },
+    {
+      "number": 6,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 14.4,
+      "end": 16.62,
+      "text": " and then we'll do this together."
+    },
+    {
+      "number": 7,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 16.62,
+      "end": 18.64,
+      "text": " Okay, now let's work on this together."
+    },
+    {
+      "number": 8,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 18.64,
+      "end": 21.94,
+      "text": " So we wanna reflect over the line y equals x."
+    },
+    {
+      "number": 9,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 21.94,
+      "end": 24.38,
+      "text": " So let me just draw that out a little bit."
+    },
+    {
+      "number": 10,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 24.38,
+      "end": 29.38,
+      "text": " So y equals x looks like this."
+    },
+    {
+      "number": 11,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 29.88,
+      "end": 32.56,
+      "text": " Make sure it's hand-drawn, so it's obviously not perfect,"
+    },
+    {
+      "number": 12,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 32.56,
+      "end": 37.56,
+      "text": " but this gives you a sense of the line y is equal to x."
+    },
+    {
+      "number": 13,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 38.28,
+      "end": 40.739999999999995,
+      "text": " And you might already know the transformation here."
+    },
+    {
+      "number": 14,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 40.739999999999995,
+      "end": 43.04,
+      "text": " To transform over that line,"
+    },
+    {
+      "number": 15,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 43.04,
+      "end": 46.32,
+      "text": " what you wanna do is take your x and y,"
+    },
+    {
+      "number": 16,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 46.32,
+      "end": 48.28,
+      "text": " and you essentially just wanna swap them."
+    },
+    {
+      "number": 17,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 48.28,
+      "end": 51.72,
+      "text": " So what was the x will now become the y,"
+    },
+    {
+      "number": 18,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 51.72,
+      "end": 55.519999999999996,
+      "text": " and what was the y will now become the x."
+    },
+    {
+      "number": 19,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 55.519999999999996,
+      "end": 57.76,
+      "text": " And that's essentially all you need to do."
+    },
+    {
+      "number": 20,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 57.78,
+      "end": 59.78,
+      "text": " So we actually know the second part right over here."
+    },
+    {
+      "number": 21,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 59.78,
+      "end": 61.46,
+      "text": " This is just going to be a y right over here,"
+    },
+    {
+      "number": 22,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 61.46,
+      "end": 62.92,
+      "text": " and this is going to be an x."
+    },
+    {
+      "number": 23,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 62.92,
+      "end": 64.53999999999999,
+      "text": " But let's actually graph this image."
+    },
+    {
+      "number": 24,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 64.53999999999999,
+      "end": 66.1,
+      "text": " And so what we wanna do is"
+    },
+    {
+      "number": 25,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 66.1,
+      "end": 67.62,
+      "text": " we could look at each of these points."
+    },
+    {
+      "number": 26,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 67.62,
+      "end": 70.86,
+      "text": " So for example, point K right over here"
+    },
+    {
+      "number": 27,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 70.86,
+      "end": 75.86,
+      "text": " is at the coordinate negative one, comma, negative three."
+    },
+    {
+      "number": 28,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 76.52,
+      "end": 78.38,
+      "text": " So if we were to swap these,"
+    },
+    {
+      "number": 29,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 78.38,
+      "end": 82.42,
+      "text": " you'd get to negative three, negative one."
+    },
+    {
+      "number": 30,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 82.42,
+      "end": 86.52,
+      "text": " So this right over here, we could call that K prime."
+    },
+    {
+      "number": 31,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 87.36,
+      "end": 89.66,
+      "text": " And actually, let me do all of these in a different color."
+    },
+    {
+      "number": 32,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 89.66,
+      "end": 91.42,
+      "text": " So if we look at J right over here,"
+    },
+    {
+      "number": 33,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 91.42,
+      "end": 95.74,
+      "text": " J is at negative one,"
+    },
+    {
+      "number": 34,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 95.74,
+      "end": 99.66,
+      "text": " and then this looks like negative five, six, negative six."
+    },
+    {
+      "number": 35,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 99.66,
+      "end": 100.89999999999999,
+      "text": " If you were to swap that,"
+    },
+    {
+      "number": 36,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 100.89999999999999,
+      "end": 104.78,
+      "text": " you would go to negative six and then negative one."
+    },
+    {
+      "number": 37,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 104.78,
+      "end": 109.78,
+      "text": " So this is, let's call that J prime after you've mapped it."
+    },
+    {
+      "number": 38,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 109.94,
+      "end": 111.92,
+      "text": " And now let me pick another color here."
+    },
+    {
+      "number": 39,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 111.94,
+      "end": 116.94,
+      "text": " So point L is at the point five, comma, negative three."
+    },
+    {
+      "number": 40,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 118.26,
+      "end": 119.58,
+      "text": " So if you were to swap those,"
+    },
+    {
+      "number": 41,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 119.58,
+      "end": 123.5,
+      "text": " you go to negative three, comma, five."
+    },
+    {
+      "number": 42,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 123.5,
+      "end": 126.66,
+      "text": " You're going to go right over here."
+    },
+    {
+      "number": 43,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 126.66,
+      "end": 129.34,
+      "text": " So this is L prime."
+    },
+    {
+      "number": 44,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 129.34,
+      "end": 131.26,
+      "text": " And then last but not least,"
+    },
+    {
+      "number": 45,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 131.26,
+      "end": 133.14,
+      "text": " let me see what color have I not used."
+    },
+    {
+      "number": 46,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 133.14,
+      "end": 136.24,
+      "text": " I will use this teal color."
+    },
+    {
+      "number": 47,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 136.24,
+      "end": 137.86,
+      "text": " So point M right over here"
+    },
+    {
+      "number": 48,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 137.86,
+      "end": 142.86,
+      "text": " is at the coordinates two, comma, negative six."
+    },
+    {
+      "number": 49,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 143.32000000000002,
+      "end": 145.88000000000002,
+      "text": " So if you were to swap the two and the negative six,"
+    },
+    {
+      "number": 50,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 145.88000000000002,
+      "end": 148.36,
+      "text": " you go to negative six, comma, two,"
+    },
+    {
+      "number": 51,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 148.36,
+      "end": 149.84,
+      "text": " which is right over here."
+    },
+    {
+      "number": 52,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 149.84,
+      "end": 152.56,
+      "text": " This is where M prime would be."
+    },
+    {
+      "number": 53,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 152.56,
+      "end": 154.88000000000002,
+      "text": " And so we now see our new quadrilateral."
+    },
+    {
+      "number": 54,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 154.88000000000002,
+      "end": 158.76000000000002,
+      "text": " If we disconnect these points, we have now mapped it."
+    },
+    {
+      "number": 55,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 158.76000000000002,
+      "end": 160.24,
+      "text": " And I'm doing this by hand."
+    },
+    {
+      "number": 56,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 160.24,
+      "end": 163.12,
+      "text": " This is a screenshot of the Khan Academy exercise."
+    },
+    {
+      "number": 57,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 163.12,
+      "end": 164.12,
+      "text": " Over there, you actually have a tool"
+    },
+    {
+      "number": 58,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 164.12,
+      "end": 166.32000000000002,
+      "text": " where you can move around the points"
+    },
+    {
+      "number": 59,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 166.32000000000002,
+      "end": 167.84,
+      "text": " in order to do the transformation."
+    },
+    {
+      "number": 60,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 168.68,
+      "end": 169.52,
+      "text": " But it's going to be the same idea."
+    },
+    {
+      "number": 61,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 169.52,
+      "end": 170.94,
+      "text": " You look at each of these coordinates,"
+    },
+    {
+      "number": 62,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 170.94,
+      "end": 172.74,
+      "text": " and then you're going to swap the X and the Y"
+    },
+    {
+      "number": 63,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 172.74,
+      "end": 177.58,
+      "text": " for a reflection over the line Y is equal to X."
+    },
+    {
+      "number": 64,
+      "title": "Reflecting over y=x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [-47SHD2cPAY]",
+      "start": 177.58,
+      "end": 178.42000000000002,
+      "text": " And we're done."
+    }
+  ],
+  "full_text": " we're told to graph the image of quadrilateral JKLM after a reflection over the line y equals x. And then later we wanna describe the reflection in coordinate notation. So pause this video, give this a try, and then we'll do this together. Okay, now let's work on this together. So we wanna reflect over the line y equals x. So let me just draw that out a little bit. So y equals x looks like this. Make sure it's hand-drawn, so it's obviously not perfect, but this gives you a sense of the line y is equal to x. And you might already know the transformation here. To transform over that line, what you wanna do is take your x and y, and you essentially just wanna swap them. So what was the x will now become the y, and what was the y will now become the x. And that's essentially all you need to do. So we actually know the second part right over here. This is just going to be a y right over here, and this is going to be an x. But let's actually graph this image. And so what we wanna do is we could look at each of these points. So for example, point K right over here is at the coordinate negative one, comma, negative three. So if we were to swap these, you'd get to negative three, negative one. So this right over here, we could call that K prime. And actually, let me do all of these in a different color. So if we look at J right over here, J is at negative one, and then this looks like negative five, six, negative six. If you were to swap that, you would go to negative six and then negative one. So this is, let's call that J prime after you've mapped it. And now let me pick another color here. So point L is at the point five, comma, negative three. So if you were to swap those, you go to negative three, comma, five. You're going to go right over here. So this is L prime. And then last but not least, let me see what color have I not used. I will use this teal color. So point M right over here is at the coordinates two, comma, negative six. So if you were to swap the two and the negative six, you go to negative six, comma, two, which is right over here. This is where M prime would be. And so we now see our new quadrilateral. If we disconnect these points, we have now mapped it. And I'm doing this by hand. This is a screenshot of the Khan Academy exercise. Over there, you actually have a tool where you can move around the points in order to do the transformation. But it's going to be the same idea. You look at each of these coordinates, and then you're going to swap the X and the Y for a reflection over the line Y is equal to X. And we're done."
+}

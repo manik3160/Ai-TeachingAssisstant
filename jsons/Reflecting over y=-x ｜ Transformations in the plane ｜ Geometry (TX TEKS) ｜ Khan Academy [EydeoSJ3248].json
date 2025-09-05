@@ -1,0 +1,643 @@
+{
+  "file": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248].mp4",
+  "chunks": [
+    {
+      "number": 1,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 0.0,
+      "end": 3.64,
+      "text": " We're told to graph the image of quadrilateral JKLM,"
+    },
+    {
+      "number": 2,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 3.64,
+      "end": 5.8,
+      "text": " right over here, JKLM,"
+    },
+    {
+      "number": 3,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 5.8,
+      "end": 9.08,
+      "text": " after a reflection over the line y is equal to negative x,"
+    },
+    {
+      "number": 4,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 9.08,
+      "end": 11.16,
+      "text": " and then we wanna describe the reflection"
+    },
+    {
+      "number": 5,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 11.16,
+      "end": 12.280000000000001,
+      "text": " in coordinate notation."
+    },
+    {
+      "number": 6,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 12.280000000000001,
+      "end": 13.64,
+      "text": " So pause this video, have a go at it,"
+    },
+    {
+      "number": 7,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 13.64,
+      "end": 15.52,
+      "text": " then we'll do this together."
+    },
+    {
+      "number": 8,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 15.52,
+      "end": 17.52,
+      "text": " All right, so first let's visualize the line"
+    },
+    {
+      "number": 9,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 17.52,
+      "end": 18.52,
+      "text": " that we're reflecting over."
+    },
+    {
+      "number": 10,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 18.52,
+      "end": 23.52,
+      "text": " The line y is equal to negative x looks like this."
+    },
+    {
+      "number": 11,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 25.18,
+      "end": 28.96,
+      "text": " Y equals negative x looks like this."
+    },
+    {
+      "number": 12,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 28.96,
+      "end": 31.92,
+      "text": " Some of you might already know the transformation,"
+    },
+    {
+      "number": 13,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 31.92,
+      "end": 35.08,
+      "text": " but I am going to try to remember what it is,"
+    },
+    {
+      "number": 14,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 35.08,
+      "end": 37.6,
+      "text": " and not just tell you what the transformation is."
+    },
+    {
+      "number": 15,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 37.6,
+      "end": 39.44,
+      "text": " So if we're reflecting over this line,"
+    },
+    {
+      "number": 16,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 39.44,
+      "end": 41.8,
+      "text": " y is equal to negative x,"
+    },
+    {
+      "number": 17,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 41.8,
+      "end": 46.480000000000004,
+      "text": " let's imagine this point over here,"
+    },
+    {
+      "number": 18,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 46.480000000000004,
+      "end": 49.92,
+      "text": " the point zero comma,"
+    },
+    {
+      "number": 19,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 49.92,
+      "end": 51.120000000000005,
+      "text": " actually, let me do a point"
+    },
+    {
+      "number": 20,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 51.120000000000005,
+      "end": 54.72,
+      "text": " that actually has a non-zero coordinate here."
+    },
+    {
+      "number": 21,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 54.72,
+      "end": 56.8,
+      "text": " So let's say this point right over here,"
+    },
+    {
+      "number": 22,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 56.8,
+      "end": 59.76,
+      "text": " which is the point one comma two."
+    },
+    {
+      "number": 23,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 59.76,
+      "end": 61.76,
+      "text": " Let's just think about where it would end up."
+    },
+    {
+      "number": 24,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 61.76,
+      "end": 64.06,
+      "text": " So if we were to reflect over this line,"
+    },
+    {
+      "number": 25,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 64.06,
+      "end": 65.08,
+      "text": " you'd go straight to that line,"
+    },
+    {
+      "number": 26,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 65.08,
+      "end": 70.08,
+      "text": " and you'd go the same distance across this line."
+    },
+    {
+      "number": 27,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 70.39999999999999,
+      "end": 73.92,
+      "text": " So you're going to go right over to this point"
+    },
+    {
+      "number": 28,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 73.92,
+      "end": 75.12,
+      "text": " right over here."
+    },
+    {
+      "number": 29,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 75.12,
+      "end": 76.32,
+      "text": " And what is this point?"
+    },
+    {
+      "number": 30,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 76.32,
+      "end": 80.64,
+      "text": " This is negative two, negative one."
+    },
+    {
+      "number": 31,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 80.64,
+      "end": 83.72,
+      "text": " And this helped me remember, I didn't prove this,"
+    },
+    {
+      "number": 32,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 83.72,
+      "end": 85.86,
+      "text": " I didn't prove what the transformation is,"
+    },
+    {
+      "number": 33,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 85.86,
+      "end": 87.1,
+      "text": " but it helped me remember what it is,"
+    },
+    {
+      "number": 34,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 87.1,
+      "end": 88.76,
+      "text": " because what just happened?"
+    },
+    {
+      "number": 35,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 88.76,
+      "end": 91.08,
+      "text": " The new x-coordinate is the negative"
+    },
+    {
+      "number": 36,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 91.08,
+      "end": 92.32,
+      "text": " of the old y-coordinate,"
+    },
+    {
+      "number": 37,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 92.32,
+      "end": 94.22,
+      "text": " and the new y-coordinate is the negative"
+    },
+    {
+      "number": 38,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 94.22,
+      "end": 96.86,
+      "text": " of the old x-coordinate."
+    },
+    {
+      "number": 39,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 96.86,
+      "end": 99.66,
+      "text": " So if I were to write this in coordinate notation,"
+    },
+    {
+      "number": 40,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 99.66,
+      "end": 102.78,
+      "text": " my new x is the negative of the old y,"
+    },
+    {
+      "number": 41,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 102.78,
+      "end": 106.78,
+      "text": " and my new y is the negative of the old x."
+    },
+    {
+      "number": 42,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 106.78,
+      "end": 109.12,
+      "text": " And you could validate that with other points if you like."
+    },
+    {
+      "number": 43,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 109.12,
+      "end": 110.8,
+      "text": " Some of you might have already known this"
+    },
+    {
+      "number": 44,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 110.8,
+      "end": 113.06,
+      "text": " as the transformation when you reflect over the line"
+    },
+    {
+      "number": 45,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 113.06,
+      "end": 114.48,
+      "text": " y is equal to negative x."
+    },
+    {
+      "number": 46,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 114.48,
+      "end": 116.58,
+      "text": " But I always like to try it out with a point"
+    },
+    {
+      "number": 47,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 116.58,
+      "end": 118.16000000000001,
+      "text": " before I go all in."
+    },
+    {
+      "number": 48,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 118.16000000000001,
+      "end": 120.0,
+      "text": " So now let's just do that transformation"
+    },
+    {
+      "number": 49,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 120.0,
+      "end": 121.84,
+      "text": " for each of these points."
+    },
+    {
+      "number": 50,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 121.84,
+      "end": 124.84,
+      "text": " So let's start with this point right over here,"
+    },
+    {
+      "number": 51,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 124.84,
+      "end": 129.04,
+      "text": " which is at the point five comma negative three."
+    },
+    {
+      "number": 52,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 130.04,
+      "end": 133.88,
+      "text": " Well, if we take the negative of the y"
+    },
+    {
+      "number": 53,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 133.88,
+      "end": 137.44,
+      "text": " that goes to positive three, positive three,"
+    },
+    {
+      "number": 54,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 137.44,
+      "end": 141.74,
+      "text": " and then the negative of the x is negative five."
+    },
+    {
+      "number": 55,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 141.74,
+      "end": 144.76000000000002,
+      "text": " So this will map to this point over here."
+    },
+    {
+      "number": 56,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 144.76000000000002,
+      "end": 147.98000000000002,
+      "text": " So I'll write that negative three comma,"
+    },
+    {
+      "number": 57,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 147.98000000000002,
+      "end": 152.9,
+      "text": " sorry, positive three, positive three, negative five."
+    },
+    {
+      "number": 58,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 152.9,
+      "end": 154.74,
+      "text": " All right, three more to go."
+    },
+    {
+      "number": 59,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 154.74,
+      "end": 155.9,
+      "text": " Let's do this point."
+    },
+    {
+      "number": 60,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 155.9,
+      "end": 160.22,
+      "text": " This is the point two, two comma,"
+    },
+    {
+      "number": 61,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 160.22,
+      "end": 161.34,
+      "text": " and this is getting a little bit messy,"
+    },
+    {
+      "number": 62,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 161.34,
+      "end": 163.02,
+      "text": " but I'll try to keep track of things."
+    },
+    {
+      "number": 63,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 163.02,
+      "end": 166.10000000000002,
+      "text": " This is the point two comma negative six."
+    },
+    {
+      "number": 64,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 167.02,
+      "end": 168.16000000000003,
+      "text": " So I'm going to map that."
+    },
+    {
+      "number": 65,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 168.16000000000003,
+      "end": 170.14000000000001,
+      "text": " I'm gonna swap these and make them negative."
+    },
+    {
+      "number": 66,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 170.14,
+      "end": 173.27999999999997,
+      "text": " So it's going to be positive six and negative two."
+    },
+    {
+      "number": 67,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 173.27999999999997,
+      "end": 176.57999999999998,
+      "text": " So it's going to go over here."
+    },
+    {
+      "number": 68,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 176.57999999999998,
+      "end": 178.05999999999997,
+      "text": " All right, two more to go."
+    },
+    {
+      "number": 69,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 179.35999999999999,
+      "end": 184.35999999999999,
+      "text": " This point over here is negative one, negative six."
+    },
+    {
+      "number": 70,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 185.45999999999998,
+      "end": 188.29999999999998,
+      "text": " Well, I swap them and make them the opposite."
+    },
+    {
+      "number": 71,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 188.29999999999998,
+      "end": 190.85999999999999,
+      "text": " So then I go to six comma one."
+    },
+    {
+      "number": 72,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 190.85999999999999,
+      "end": 195.85999999999999,
+      "text": " Six comma one is going to be right over there."
+    },
+    {
+      "number": 73,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 196.77999999999997,
+      "end": 199.01999999999998,
+      "text": " And then last but not least,"
+    },
+    {
+      "number": 74,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 199.02,
+      "end": 200.38000000000002,
+      "text": " let me do this in,"
+    },
+    {
+      "number": 75,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 201.42000000000002,
+      "end": 202.86,
+      "text": " well, let me do this in,"
+    },
+    {
+      "number": 76,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 202.86,
+      "end": 204.82000000000002,
+      "text": " finding the colors is the hardest part."
+    },
+    {
+      "number": 77,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 204.82000000000002,
+      "end": 209.42000000000002,
+      "text": " Right over here, this point is at negative one"
+    },
+    {
+      "number": 78,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 209.42000000000002,
+      "end": 211.78,
+      "text": " comma negative three."
+    },
+    {
+      "number": 79,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 211.78,
+      "end": 213.94,
+      "text": " So if you swap them, it's going to go to positive"
+    },
+    {
+      "number": 80,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 213.94,
+      "end": 214.78,
+      "text": " and make them negative."
+    },
+    {
+      "number": 81,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 214.78,
+      "end": 217.94,
+      "text": " It's going to go positive three and then positive one."
+    },
+    {
+      "number": 82,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 217.94,
+      "end": 220.42000000000002,
+      "text": " So it's going to go to this point right over there."
+    },
+    {
+      "number": 83,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 220.42000000000002,
+      "end": 222.5,
+      "text": " And then we just connect the lines."
+    },
+    {
+      "number": 84,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 222.5,
+      "end": 227.5,
+      "text": " So we get that, we get that, we get that,"
+    },
+    {
+      "number": 85,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 229.26000000000002,
+      "end": 231.5,
+      "text": " and then we get this."
+    },
+    {
+      "number": 86,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 231.5,
+      "end": 232.34,
+      "text": " And there you have it."
+    },
+    {
+      "number": 87,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 232.34,
+      "end": 234.66,
+      "text": " We've graphed the quadrilateral JKLM"
+    },
+    {
+      "number": 88,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 234.66,
+      "end": 236.78,
+      "text": " after reflection over the line, y equals negative x."
+    },
+    {
+      "number": 89,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 236.78,
+      "end": 237.98000000000002,
+      "text": " And you can visually see that,"
+    },
+    {
+      "number": 90,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 237.98000000000002,
+      "end": 240.58,
+      "text": " that it is the reflection over that line."
+    },
+    {
+      "number": 91,
+      "title": "Reflecting over y=-x ｜ Transformations in the plane ｜ Geometry (TX TEKS) ｜ Khan Academy [EydeoSJ3248]",
+      "start": 240.58,
+      "end": 243.66000000000003,
+      "text": " And so this transformation served us well."
+    }
+  ],
+  "full_text": " We're told to graph the image of quadrilateral JKLM, right over here, JKLM, after a reflection over the line y is equal to negative x, and then we wanna describe the reflection in coordinate notation. So pause this video, have a go at it, then we'll do this together. All right, so first let's visualize the line that we're reflecting over. The line y is equal to negative x looks like this. Y equals negative x looks like this. Some of you might already know the transformation, but I am going to try to remember what it is, and not just tell you what the transformation is. So if we're reflecting over this line, y is equal to negative x, let's imagine this point over here, the point zero comma, actually, let me do a point that actually has a non-zero coordinate here. So let's say this point right over here, which is the point one comma two. Let's just think about where it would end up. So if we were to reflect over this line, you'd go straight to that line, and you'd go the same distance across this line. So you're going to go right over to this point right over here. And what is this point? This is negative two, negative one. And this helped me remember, I didn't prove this, I didn't prove what the transformation is, but it helped me remember what it is, because what just happened? The new x-coordinate is the negative of the old y-coordinate, and the new y-coordinate is the negative of the old x-coordinate. So if I were to write this in coordinate notation, my new x is the negative of the old y, and my new y is the negative of the old x. And you could validate that with other points if you like. Some of you might have already known this as the transformation when you reflect over the line y is equal to negative x. But I always like to try it out with a point before I go all in. So now let's just do that transformation for each of these points. So let's start with this point right over here, which is at the point five comma negative three. Well, if we take the negative of the y that goes to positive three, positive three, and then the negative of the x is negative five. So this will map to this point over here. So I'll write that negative three comma, sorry, positive three, positive three, negative five. All right, three more to go. Let's do this point. This is the point two, two comma, and this is getting a little bit messy, but I'll try to keep track of things. This is the point two comma negative six. So I'm going to map that. I'm gonna swap these and make them negative. So it's going to be positive six and negative two. So it's going to go over here. All right, two more to go. This point over here is negative one, negative six. Well, I swap them and make them the opposite. So then I go to six comma one. Six comma one is going to be right over there. And then last but not least, let me do this in, well, let me do this in, finding the colors is the hardest part. Right over here, this point is at negative one comma negative three. So if you swap them, it's going to go to positive and make them negative. It's going to go positive three and then positive one. So it's going to go to this point right over there. And then we just connect the lines. So we get that, we get that, we get that, and then we get this. And there you have it. We've graphed the quadrilateral JKLM after reflection over the line, y equals negative x. And you can visually see that, that it is the reflection over that line. And so this transformation served us well."
+}

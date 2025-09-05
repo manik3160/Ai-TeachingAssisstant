@@ -1,0 +1,741 @@
+{
+  "file": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA].mp4",
+  "chunks": [
+    {
+      "number": 1,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 0.0,
+      "end": 2.24,
+      "text": " What we wanna do in this video is prove"
+    },
+    {
+      "number": 2,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 2.24,
+      "end": 4.76,
+      "text": " that the measure of the angle formed"
+    },
+    {
+      "number": 3,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 4.76,
+      "end": 8.68,
+      "text": " by the intersection of a tangent and a chord"
+    },
+    {
+      "number": 4,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 8.68,
+      "end": 12.700000000000001,
+      "text": " is half the measure of the intercepted arc."
+    },
+    {
+      "number": 5,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 12.700000000000001,
+      "end": 14.76,
+      "text": " So let's just make sense of what we're trying to prove,"
+    },
+    {
+      "number": 6,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 14.76,
+      "end": 16.32,
+      "text": " and then we will prove it."
+    },
+    {
+      "number": 7,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 16.32,
+      "end": 20.98,
+      "text": " So we have two situations where we have an angle formed"
+    },
+    {
+      "number": 8,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 20.98,
+      "end": 25.98,
+      "text": " by a tangent and a chord."
+    },
+    {
+      "number": 9,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 26.14,
+      "end": 28.2,
+      "text": " So there's one situation where it is acute,"
+    },
+    {
+      "number": 10,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 28.2,
+      "end": 29.84,
+      "text": " that's the scenario on the left."
+    },
+    {
+      "number": 11,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 29.84,
+      "end": 31.8,
+      "text": " There's another situation where the angle formed"
+    },
+    {
+      "number": 12,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 31.8,
+      "end": 35.46,
+      "text": " between the chord and the tangent is obtuse."
+    },
+    {
+      "number": 13,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 35.46,
+      "end": 38.1,
+      "text": " Now, what we wanna do in either of these cases"
+    },
+    {
+      "number": 14,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 38.1,
+      "end": 43.1,
+      "text": " is compare them to the measure of the intercepted arc."
+    },
+    {
+      "number": 15,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 44.42,
+      "end": 47.54,
+      "text": " So in this situation right over here on the left,"
+    },
+    {
+      "number": 16,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 47.54,
+      "end": 52.54,
+      "text": " the intercepted arc is what I'm showing here in the yellow."
+    },
+    {
+      "number": 17,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 52.6,
+      "end": 54.78,
+      "text": " So in this left scenario,"
+    },
+    {
+      "number": 18,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 54.78,
+      "end": 58.34,
+      "text": " what we want to show is that theta"
+    },
+    {
+      "number": 19,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 58.34,
+      "end": 62.940000000000005,
+      "text": " is equal to, we wanna show that it's half the measure"
+    },
+    {
+      "number": 20,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 62.940000000000005,
+      "end": 64.54,
+      "text": " of the intercepted arc."
+    },
+    {
+      "number": 21,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 64.54,
+      "end": 69.54,
+      "text": " So we wanna show that it is half the measure of arc BC."
+    },
+    {
+      "number": 22,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 71.18,
+      "end": 72.98,
+      "text": " That's what we wanna show in this scenario."
+    },
+    {
+      "number": 23,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 72.98,
+      "end": 76.46000000000001,
+      "text": " In this scenario, we wanna show that theta"
+    },
+    {
+      "number": 24,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 77.98,
+      "end": 82.36,
+      "text": " is equal to half the measure,"
+    },
+    {
+      "number": 25,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 82.36,
+      "end": 84.74000000000001,
+      "text": " and here we're gonna be thinking about the major arc."
+    },
+    {
+      "number": 26,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 84.74,
+      "end": 88.72,
+      "text": " So this is the intercepted arc in this scenario."
+    },
+    {
+      "number": 27,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 88.72,
+      "end": 90.82,
+      "text": " So we wanna go all the way around,"
+    },
+    {
+      "number": 28,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 90.82,
+      "end": 92.74,
+      "text": " and for major arcs, we use three letters"
+    },
+    {
+      "number": 29,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 92.74,
+      "end": 94.22,
+      "text": " to show that we're going the long way around."
+    },
+    {
+      "number": 30,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 94.22,
+      "end": 97.22,
+      "text": " So this is the measure of arc, we could call this BEC."
+    },
+    {
+      "number": 31,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 98.66,
+      "end": 102.0,
+      "text": " B-E-C."
+    },
+    {
+      "number": 32,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 102.0,
+      "end": 104.66,
+      "text": " So let's get to it."
+    },
+    {
+      "number": 33,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 104.66,
+      "end": 106.14,
+      "text": " So in this left scenario,"
+    },
+    {
+      "number": 34,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 106.14,
+      "end": 109.41999999999999,
+      "text": " what I'm gonna do is draw some radii."
+    },
+    {
+      "number": 35,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 109.41999999999999,
+      "end": 114.41999999999999,
+      "text": " So this over here and this over here, this is a circle,"
+    },
+    {
+      "number": 36,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 114.66,
+      "end": 116.54,
+      "text": " so the radius is constant."
+    },
+    {
+      "number": 37,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 116.54,
+      "end": 120.58,
+      "text": " So we know that this length is equivalent to that length."
+    },
+    {
+      "number": 38,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 120.58,
+      "end": 124.14,
+      "text": " We also have proved in other videos, or you might know,"
+    },
+    {
+      "number": 39,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 124.14,
+      "end": 128.62,
+      "text": " that the angle between a radius and a tangent"
+    },
+    {
+      "number": 40,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 128.62,
+      "end": 132.06,
+      "text": " is going to be 90 degrees."
+    },
+    {
+      "number": 41,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 132.06,
+      "end": 134.26,
+      "text": " So that right over there is 90 degrees,"
+    },
+    {
+      "number": 42,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 134.26,
+      "end": 135.82,
+      "text": " or another way you could think about it"
+    },
+    {
+      "number": 43,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 135.82,
+      "end": 138.42000000000002,
+      "text": " is this would also be 90 degrees."
+    },
+    {
+      "number": 44,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 138.42000000000002,
+      "end": 139.3,
+      "text": " Well, if we know that,"
+    },
+    {
+      "number": 45,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 139.3,
+      "end": 141.46,
+      "text": " if we know that this angle is 90 degrees,"
+    },
+    {
+      "number": 46,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 141.46,
+      "end": 145.26000000000002,
+      "text": " then what is the measure of this angle right over here?"
+    },
+    {
+      "number": 47,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 145.26000000000002,
+      "end": 148.46,
+      "text": " Well, that angle plus theta has to be equal to 90 degrees,"
+    },
+    {
+      "number": 48,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 148.46,
+      "end": 150.96,
+      "text": " so this is going to be 90 minus theta."
+    },
+    {
+      "number": 49,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 151.92000000000002,
+      "end": 154.58,
+      "text": " Well, what we're dealing with here is an isosceles triangle,"
+    },
+    {
+      "number": 50,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 154.58,
+      "end": 157.10000000000002,
+      "text": " so if this angle is 90 minus theta,"
+    },
+    {
+      "number": 51,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 157.10000000000002,
+      "end": 158.34,
+      "text": " then this angle right over here,"
+    },
+    {
+      "number": 52,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 158.34,
+      "end": 160.42000000000002,
+      "text": " because these two sides are congruent,"
+    },
+    {
+      "number": 53,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 160.42000000000002,
+      "end": 163.42000000000002,
+      "text": " so this is also going to be 90 minus theta."
+    },
+    {
+      "number": 54,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 163.42000000000002,
+      "end": 166.10000000000002,
+      "text": " So my question is, what is this angle going to be?"
+    },
+    {
+      "number": 55,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 166.10000000000002,
+      "end": 169.56,
+      "text": " And this angle's measure is the same"
+    },
+    {
+      "number": 56,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 169.56,
+      "end": 172.84,
+      "text": " as the measure of arc BC."
+    },
+    {
+      "number": 57,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 172.84,
+      "end": 175.96,
+      "text": " So it's going to be the angles in a triangle add up to 180,"
+    },
+    {
+      "number": 58,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 175.96,
+      "end": 177.16,
+      "text": " so this is going to be,"
+    },
+    {
+      "number": 59,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 177.16,
+      "end": 179.0,
+      "text": " let me just color another color right over here,"
+    },
+    {
+      "number": 60,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 179.0,
+      "end": 181.48,
+      "text": " so it's going to be 180 minus this,"
+    },
+    {
+      "number": 61,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 181.48,
+      "end": 184.14000000000001,
+      "text": " minus 90 minus theta,"
+    },
+    {
+      "number": 62,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 184.14000000000001,
+      "end": 187.92000000000002,
+      "text": " minus 90 minus theta."
+    },
+    {
+      "number": 63,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 187.92000000000002,
+      "end": 189.56,
+      "text": " That's the measure of this angle."
+    },
+    {
+      "number": 64,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 189.56,
+      "end": 191.16,
+      "text": " And so this is going to be equal to,"
+    },
+    {
+      "number": 65,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 191.16,
+      "end": 193.88,
+      "text": " if I just distribute the negatives and simplify,"
+    },
+    {
+      "number": 66,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 193.88,
+      "end": 198.76,
+      "text": " this is 180 minus negative 90, negative 90, so minus 180."
+    },
+    {
+      "number": 67,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 198.79999999999998,
+      "end": 200.88,
+      "text": " And then if I multiply that times theta,"
+    },
+    {
+      "number": 68,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 200.88,
+      "end": 204.12,
+      "text": " it's plus theta plus another theta, so plus two theta."
+    },
+    {
+      "number": 69,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 204.12,
+      "end": 206.04,
+      "text": " And so those cancel out,"
+    },
+    {
+      "number": 70,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 206.04,
+      "end": 207.92,
+      "text": " so we're just left with the two theta."
+    },
+    {
+      "number": 71,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 207.92,
+      "end": 209.67999999999998,
+      "text": " This angle right over here is two theta."
+    },
+    {
+      "number": 72,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 209.67999999999998,
+      "end": 213.32,
+      "text": " That is the measure of arc BC."
+    },
+    {
+      "number": 73,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 213.32,
+      "end": 217.92,
+      "text": " So we see that indeed, this angle is half of this angle,"
+    },
+    {
+      "number": 74,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 217.92,
+      "end": 222.92,
+      "text": " or this angle is half the measure of the intercepted arc."
+    },
+    {
+      "number": 75,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 223.72,
+      "end": 226.23999999999998,
+      "text": " Well, now let's do the same exercise over here,"
+    },
+    {
+      "number": 76,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 226.23999999999998,
+      "end": 227.84,
+      "text": " and we're going to do it in a very similar way."
+    },
+    {
+      "number": 77,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 227.84,
+      "end": 230.20000000000002,
+      "text": " Let me draw some radii."
+    },
+    {
+      "number": 78,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 230.20000000000002,
+      "end": 235.20000000000002,
+      "text": " We know that this length is equal to that length,"
+    },
+    {
+      "number": 79,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 235.36,
+      "end": 240.36,
+      "text": " and we know that this is 90 degrees because DB is a tangent."
+    },
+    {
+      "number": 80,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 241.4,
+      "end": 246.4,
+      "text": " And so now this angle here is going to be not 90 minus theta,"
+    },
+    {
+      "number": 81,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 246.76,
+      "end": 251.76,
+      "text": " but theta minus this 90, so theta minus 90."
+    },
+    {
+      "number": 82,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 252.48000000000002,
+      "end": 254.26,
+      "text": " Well, because this is an isosceles triangle,"
+    },
+    {
+      "number": 83,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 254.26,
+      "end": 257.64,
+      "text": " this is also going to be theta minus 90."
+    },
+    {
+      "number": 84,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 258.47999999999996,
+      "end": 260.59999999999997,
+      "text": " And then based on that, we can figure out this angle."
+    },
+    {
+      "number": 85,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 260.59999999999997,
+      "end": 262.52,
+      "text": " Let me do it right over here."
+    },
+    {
+      "number": 86,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 262.52,
+      "end": 267.52,
+      "text": " This angle is going to be 180 minus theta minus 90,"
+    },
+    {
+      "number": 87,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 267.71999999999997,
+      "end": 272.71999999999997,
+      "text": " theta minus 90, minus theta minus 90, theta minus 90."
+    },
+    {
+      "number": 88,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 274.03999999999996,
+      "end": 277.59999999999997,
+      "text": " And so this is going to be 180,"
+    },
+    {
+      "number": 89,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 277.59999999999997,
+      "end": 281.59999999999997,
+      "text": " and then we're going to add 90 twice, so plus 180."
+    },
+    {
+      "number": 90,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 281.59999999999997,
+      "end": 283.32,
+      "text": " And then we're gonna subtract theta twice,"
+    },
+    {
+      "number": 91,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 283.32,
+      "end": 287.92,
+      "text": " so minus two theta, so it's equal to 360 minus two theta."
+    },
+    {
+      "number": 92,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 287.92,
+      "end": 288.76,
+      "text": " Well, that's interesting."
+    },
+    {
+      "number": 93,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 288.76,
+      "end": 291.52,
+      "text": " If this is 360 minus two theta,"
+    },
+    {
+      "number": 94,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 291.52,
+      "end": 293.36,
+      "text": " what is going to be the measure"
+    },
+    {
+      "number": 95,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 293.36,
+      "end": 295.44,
+      "text": " of this angle right over here?"
+    },
+    {
+      "number": 96,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 295.44,
+      "end": 297.86,
+      "text": " This larger angle right over here,"
+    },
+    {
+      "number": 97,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 297.86,
+      "end": 301.2,
+      "text": " plus this angle is going to add up to 360"
+    },
+    {
+      "number": 98,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 301.2,
+      "end": 303.15999999999997,
+      "text": " because we're going all the way around the circle."
+    },
+    {
+      "number": 99,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 303.15999999999997,
+      "end": 308.15999999999997,
+      "text": " So it's going to be 360 minus 360 minus two theta."
+    },
+    {
+      "number": 100,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 308.64,
+      "end": 310.12,
+      "text": " I think you see where this is going."
+    },
+    {
+      "number": 101,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 310.2,
+      "end": 314.92,
+      "text": " And that's going to be 360 minus 360 plus two theta."
+    },
+    {
+      "number": 102,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 314.92,
+      "end": 317.96,
+      "text": " And those cancel out, and we are left with two theta."
+    },
+    {
+      "number": 103,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 317.96,
+      "end": 321.92,
+      "text": " In this situation, with an obtuse angle,"
+    },
+    {
+      "number": 104,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 321.92,
+      "end": 324.38,
+      "text": " it intersects this major arc,"
+    },
+    {
+      "number": 105,
+      "title": "Proof： Angle between a tangent and a chord ｜ Geometry (TX TEKS) ｜ Khan Academy [hbdvuygTlMA]",
+      "start": 324.38,
+      "end": 327.88,
+      "text": " which once again has a measure of two theta."
+    }
+  ],
+  "full_text": " What we wanna do in this video is prove that the measure of the angle formed by the intersection of a tangent and a chord is half the measure of the intercepted arc. So let's just make sense of what we're trying to prove, and then we will prove it. So we have two situations where we have an angle formed by a tangent and a chord. So there's one situation where it is acute, that's the scenario on the left. There's another situation where the angle formed between the chord and the tangent is obtuse. Now, what we wanna do in either of these cases is compare them to the measure of the intercepted arc. So in this situation right over here on the left, the intercepted arc is what I'm showing here in the yellow. So in this left scenario, what we want to show is that theta is equal to, we wanna show that it's half the measure of the intercepted arc. So we wanna show that it is half the measure of arc BC. That's what we wanna show in this scenario. In this scenario, we wanna show that theta is equal to half the measure, and here we're gonna be thinking about the major arc. So this is the intercepted arc in this scenario. So we wanna go all the way around, and for major arcs, we use three letters to show that we're going the long way around. So this is the measure of arc, we could call this BEC. B-E-C. So let's get to it. So in this left scenario, what I'm gonna do is draw some radii. So this over here and this over here, this is a circle, so the radius is constant. So we know that this length is equivalent to that length. We also have proved in other videos, or you might know, that the angle between a radius and a tangent is going to be 90 degrees. So that right over there is 90 degrees, or another way you could think about it is this would also be 90 degrees. Well, if we know that, if we know that this angle is 90 degrees, then what is the measure of this angle right over here? Well, that angle plus theta has to be equal to 90 degrees, so this is going to be 90 minus theta. Well, what we're dealing with here is an isosceles triangle, so if this angle is 90 minus theta, then this angle right over here, because these two sides are congruent, so this is also going to be 90 minus theta. So my question is, what is this angle going to be? And this angle's measure is the same as the measure of arc BC. So it's going to be the angles in a triangle add up to 180, so this is going to be, let me just color another color right over here, so it's going to be 180 minus this, minus 90 minus theta, minus 90 minus theta. That's the measure of this angle. And so this is going to be equal to, if I just distribute the negatives and simplify, this is 180 minus negative 90, negative 90, so minus 180. And then if I multiply that times theta, it's plus theta plus another theta, so plus two theta. And so those cancel out, so we're just left with the two theta. This angle right over here is two theta. That is the measure of arc BC. So we see that indeed, this angle is half of this angle, or this angle is half the measure of the intercepted arc. Well, now let's do the same exercise over here, and we're going to do it in a very similar way. Let me draw some radii. We know that this length is equal to that length, and we know that this is 90 degrees because DB is a tangent. And so now this angle here is going to be not 90 minus theta, but theta minus this 90, so theta minus 90. Well, because this is an isosceles triangle, this is also going to be theta minus 90. And then based on that, we can figure out this angle. Let me do it right over here. This angle is going to be 180 minus theta minus 90, theta minus 90, minus theta minus 90, theta minus 90. And so this is going to be 180, and then we're going to add 90 twice, so plus 180. And then we're gonna subtract theta twice, so minus two theta, so it's equal to 360 minus two theta. Well, that's interesting. If this is 360 minus two theta, what is going to be the measure of this angle right over here? This larger angle right over here, plus this angle is going to add up to 360 because we're going all the way around the circle. So it's going to be 360 minus 360 minus two theta. I think you see where this is going. And that's going to be 360 minus 360 plus two theta. And those cancel out, and we are left with two theta. In this situation, with an obtuse angle, it intersects this major arc, which once again has a measure of two theta."
+}

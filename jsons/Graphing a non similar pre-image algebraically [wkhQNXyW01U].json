@@ -1,0 +1,615 @@
+{
+  "file": "Graphing a non similar pre-image algebraically [wkhQNXyW01U].mp4",
+  "chunks": [
+    {
+      "number": 1,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 0.0,
+      "end": 3.14,
+      "text": " We're told triangle, triangle DEF,"
+    },
+    {
+      "number": 2,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 3.14,
+      "end": 5.1000000000000005,
+      "text": " they just had to write one triangle there."
+    },
+    {
+      "number": 3,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 5.1000000000000005,
+      "end": 9.26,
+      "text": " So triangle DEF is the image of triangle ABC"
+    },
+    {
+      "number": 4,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 9.26,
+      "end": 13.3,
+      "text": " after the following composed transformation, all right?"
+    },
+    {
+      "number": 5,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 13.3,
+      "end": 15.94,
+      "text": " Graph the pre-image of triangle ABC."
+    },
+    {
+      "number": 6,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 15.94,
+      "end": 17.400000000000002,
+      "text": " So pause this video and have a go at it"
+    },
+    {
+      "number": 7,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 17.400000000000002,
+      "end": 18.740000000000002,
+      "text": " before we do this together."
+    },
+    {
+      "number": 8,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 19.78,
+      "end": 22.5,
+      "text": " Okay, so the key here is that they want the pre-image."
+    },
+    {
+      "number": 9,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 22.5,
+      "end": 23.46,
+      "text": " Some of you might've just said,"
+    },
+    {
+      "number": 10,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 23.46,
+      "end": 25.46,
+      "text": " oh, I just have to perform this transformation,"
+    },
+    {
+      "number": 11,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 25.46,
+      "end": 26.44,
+      "text": " but that's not what they're saying."
+    },
+    {
+      "number": 12,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 26.44,
+      "end": 28.580000000000002,
+      "text": " They're not saying apply this transformation"
+    },
+    {
+      "number": 13,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 28.580000000000002,
+      "end": 29.42,
+      "text": " to this triangle."
+    },
+    {
+      "number": 14,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 29.94,
+      "end": 33.82,
+      "text": " They said, we started with some triangle ABC,"
+    },
+    {
+      "number": 15,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 33.82,
+      "end": 36.22,
+      "text": " then we performed this transformation,"
+    },
+    {
+      "number": 16,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 36.22,
+      "end": 39.34,
+      "text": " and then we got triangle DEF."
+    },
+    {
+      "number": 17,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 39.34,
+      "end": 42.620000000000005,
+      "text": " So what we really wanna do is go in reverse."
+    },
+    {
+      "number": 18,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 42.620000000000005,
+      "end": 45.38,
+      "text": " So you might just wanna think about what's happening here."
+    },
+    {
+      "number": 19,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 45.38,
+      "end": 47.540000000000006,
+      "text": " The original transformation took the negative"
+    },
+    {
+      "number": 20,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 47.540000000000006,
+      "end": 50.18000000000001,
+      "text": " of the X value to get our new X value,"
+    },
+    {
+      "number": 21,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 50.18000000000001,
+      "end": 52.02,
+      "text": " and then it doubled the Y value."
+    },
+    {
+      "number": 22,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 52.02,
+      "end": 55.18000000000001,
+      "text": " So if you wanted to go and unwind this,"
+    },
+    {
+      "number": 23,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 55.18000000000001,
+      "end": 56.3,
+      "text": " what you would need to do,"
+    },
+    {
+      "number": 24,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 56.3,
+      "end": 59.18000000000001,
+      "text": " if you wanted to go back to the,"
+    },
+    {
+      "number": 25,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 59.94,
+      "end": 62.24,
+      "text": " if you wanted to go back to the original,"
+    },
+    {
+      "number": 26,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 62.24,
+      "end": 64.2,
+      "text": " you would take your X,"
+    },
+    {
+      "number": 27,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 64.2,
+      "end": 67.7,
+      "text": " and then you would multiply that times negative one,"
+    },
+    {
+      "number": 28,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 67.7,
+      "end": 69.7,
+      "text": " and then you would take your Y,"
+    },
+    {
+      "number": 29,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 69.7,
+      "end": 72.3,
+      "text": " and you would multiply that times 1 1⁄2."
+    },
+    {
+      "number": 30,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 72.3,
+      "end": 74.02,
+      "text": " Or another way to think about it is"
+    },
+    {
+      "number": 31,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 74.02,
+      "end": 76.28,
+      "text": " if we perform the following transformation,"
+    },
+    {
+      "number": 32,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 76.28,
+      "end": 79.78,
+      "text": " which you could almost use the reverse transformation,"
+    },
+    {
+      "number": 33,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 79.78,
+      "end": 82.22,
+      "text": " where you take the negative of the X,"
+    },
+    {
+      "number": 34,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 82.22,
+      "end": 84.3,
+      "text": " and you take half of the Y,"
+    },
+    {
+      "number": 35,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 84.3,
+      "end": 87.46000000000001,
+      "text": " and we perform this on DEF,"
+    },
+    {
+      "number": 36,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 87.46000000000001,
+      "end": 89.14,
+      "text": " we should go back to ABC."
+    },
+    {
+      "number": 37,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 89.98,
+      "end": 90.82000000000001,
+      "text": " And we can verify that."
+    },
+    {
+      "number": 38,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 90.82000000000001,
+      "end": 92.22,
+      "text": " Once we think we have ABC,"
+    },
+    {
+      "number": 39,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 92.22,
+      "end": 96.66,
+      "text": " we can do the original transformation and see what happens."
+    },
+    {
+      "number": 40,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 96.66,
+      "end": 98.72,
+      "text": " So let's just do that."
+    },
+    {
+      "number": 41,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 98.72,
+      "end": 102.78,
+      "text": " So this F right over here is at the point,"
+    },
+    {
+      "number": 42,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 102.78,
+      "end": 107.42,
+      "text": " this is at the point negative eight comma eight."
+    },
+    {
+      "number": 43,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 107.42,
+      "end": 109.82,
+      "text": " So if we apply this transformation,"
+    },
+    {
+      "number": 44,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 109.82,
+      "end": 112.18,
+      "text": " this negative eight becomes a positive eight,"
+    },
+    {
+      "number": 45,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 112.18,
+      "end": 113.66,
+      "text": " and then this other eight,"
+    },
+    {
+      "number": 46,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 113.66,
+      "end": 115.62,
+      "text": " you take half of that, you get a four."
+    },
+    {
+      "number": 47,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 115.62,
+      "end": 119.0,
+      "text": " So it becomes positive eight and four."
+    },
+    {
+      "number": 48,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 119.78,
+      "end": 121.08,
+      "text": " So it goes over there."
+    },
+    {
+      "number": 49,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 121.08,
+      "end": 121.92,
+      "text": " Let me just write that."
+    },
+    {
+      "number": 50,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 121.92,
+      "end": 123.28,
+      "text": " That is eight comma four."
+    },
+    {
+      "number": 51,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 124.56,
+      "end": 129.56,
+      "text": " This point D right over here is at the point five comma six."
+    },
+    {
+      "number": 52,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 131.68,
+      "end": 134.34,
+      "text": " Well, you take the negative of that five,"
+    },
+    {
+      "number": 53,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 134.34,
+      "end": 135.88,
+      "text": " you get to negative five,"
+    },
+    {
+      "number": 54,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 135.88,
+      "end": 137.68,
+      "text": " and you take half of that six."
+    },
+    {
+      "number": 55,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 137.68,
+      "end": 140.08,
+      "text": " So negative five comma three."
+    },
+    {
+      "number": 56,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 140.08,
+      "end": 141.96,
+      "text": " So it takes us right there."
+    },
+    {
+      "number": 57,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 141.96,
+      "end": 145.52,
+      "text": " So that's negative five comma three."
+    },
+    {
+      "number": 58,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 145.52,
+      "end": 147.92000000000002,
+      "text": " And then last but not least,"
+    },
+    {
+      "number": 59,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 147.92,
+      "end": 151.72,
+      "text": " this point right over here, E, is at negative,"
+    },
+    {
+      "number": 60,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 151.72,
+      "end": 155.6,
+      "text": " sorry, it's at positive two and negative four."
+    },
+    {
+      "number": 61,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 155.6,
+      "end": 158.07999999999998,
+      "text": " So you take the opposite of that positive,"
+    },
+    {
+      "number": 62,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 158.07999999999998,
+      "end": 159.11999999999998,
+      "text": " oh, positive one."
+    },
+    {
+      "number": 63,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 159.11999999999998,
+      "end": 160.88,
+      "text": " Let me, well, what am I doing?"
+    },
+    {
+      "number": 64,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 160.88,
+      "end": 162.88,
+      "text": " One comma negative four."
+    },
+    {
+      "number": 65,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 162.88,
+      "end": 164.38,
+      "text": " Don't wanna make a mistake here."
+    },
+    {
+      "number": 66,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 164.38,
+      "end": 166.32,
+      "text": " So you take the negative of that one,"
+    },
+    {
+      "number": 67,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 166.32,
+      "end": 168.32,
+      "text": " you get to negative one,"
+    },
+    {
+      "number": 68,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 168.32,
+      "end": 171.04,
+      "text": " and then you take half of that negative four,"
+    },
+    {
+      "number": 69,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 171.04,
+      "end": 172.72,
+      "text": " you get to negative two."
+    },
+    {
+      "number": 70,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 172.72,
+      "end": 174.29999999999998,
+      "text": " You get right over here."
+    },
+    {
+      "number": 71,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 174.3,
+      "end": 177.82000000000002,
+      "text": " So you go to negative one and then negative two."
+    },
+    {
+      "number": 72,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 177.82000000000002,
+      "end": 181.9,
+      "text": " And so this is what I am saying."
+    },
+    {
+      "number": 73,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 181.9,
+      "end": 186.78,
+      "text": " I would argue that this is our ABC triangle."
+    },
+    {
+      "number": 74,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 186.78,
+      "end": 188.9,
+      "text": " And if we want, we can validate that."
+    },
+    {
+      "number": 75,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 188.9,
+      "end": 192.20000000000002,
+      "text": " We can actually apply this original transformation."
+    },
+    {
+      "number": 76,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 192.20000000000002,
+      "end": 194.94,
+      "text": " For example, if I started with negative five comma three,"
+    },
+    {
+      "number": 77,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 194.94,
+      "end": 197.62,
+      "text": " if I took the negative of that x-coordinate,"
+    },
+    {
+      "number": 78,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 197.62,
+      "end": 198.9,
+      "text": " it would become positive five."
+    },
+    {
+      "number": 79,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 198.9,
+      "end": 201.86,
+      "text": " And if I were to double the y-coordinate, I'd go to six."
+    },
+    {
+      "number": 80,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 201.86,
+      "end": 203.26000000000002,
+      "text": " And that's exactly what happened."
+    },
+    {
+      "number": 81,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 203.26,
+      "end": 204.22,
+      "text": " This got mapped to that."
+    },
+    {
+      "number": 82,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 204.22,
+      "end": 205.98,
+      "text": " And you can verify the other points would map"
+    },
+    {
+      "number": 83,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 205.98,
+      "end": 208.38,
+      "text": " just like we said they would."
+    },
+    {
+      "number": 84,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 208.38,
+      "end": 210.06,
+      "text": " Now, one thing to take note of"
+    },
+    {
+      "number": 85,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 210.06,
+      "end": 214.73999999999998,
+      "text": " is that the angles in this transformation do get distorted."
+    },
+    {
+      "number": 86,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 214.73999999999998,
+      "end": 217.22,
+      "text": " So it does not preserve similarity."
+    },
+    {
+      "number": 87,
+      "title": "Graphing a non similar pre-image algebraically [wkhQNXyW01U]",
+      "start": 217.22,
+      "end": 219.06,
+      "text": " Think about why that is."
+    }
+  ],
+  "full_text": " We're told triangle, triangle DEF, they just had to write one triangle there. So triangle DEF is the image of triangle ABC after the following composed transformation, all right? Graph the pre-image of triangle ABC. So pause this video and have a go at it before we do this together. Okay, so the key here is that they want the pre-image. Some of you might've just said, oh, I just have to perform this transformation, but that's not what they're saying. They're not saying apply this transformation to this triangle. They said, we started with some triangle ABC, then we performed this transformation, and then we got triangle DEF. So what we really wanna do is go in reverse. So you might just wanna think about what's happening here. The original transformation took the negative of the X value to get our new X value, and then it doubled the Y value. So if you wanted to go and unwind this, what you would need to do, if you wanted to go back to the, if you wanted to go back to the original, you would take your X, and then you would multiply that times negative one, and then you would take your Y, and you would multiply that times 1 1⁄2. Or another way to think about it is if we perform the following transformation, which you could almost use the reverse transformation, where you take the negative of the X, and you take half of the Y, and we perform this on DEF, we should go back to ABC. And we can verify that. Once we think we have ABC, we can do the original transformation and see what happens. So let's just do that. So this F right over here is at the point, this is at the point negative eight comma eight. So if we apply this transformation, this negative eight becomes a positive eight, and then this other eight, you take half of that, you get a four. So it becomes positive eight and four. So it goes over there. Let me just write that. That is eight comma four. This point D right over here is at the point five comma six. Well, you take the negative of that five, you get to negative five, and you take half of that six. So negative five comma three. So it takes us right there. So that's negative five comma three. And then last but not least, this point right over here, E, is at negative, sorry, it's at positive two and negative four. So you take the opposite of that positive, oh, positive one. Let me, well, what am I doing? One comma negative four. Don't wanna make a mistake here. So you take the negative of that one, you get to negative one, and then you take half of that negative four, you get to negative two. You get right over here. So you go to negative one and then negative two. And so this is what I am saying. I would argue that this is our ABC triangle. And if we want, we can validate that. We can actually apply this original transformation. For example, if I started with negative five comma three, if I took the negative of that x-coordinate, it would become positive five. And if I were to double the y-coordinate, I'd go to six. And that's exactly what happened. This got mapped to that. And you can verify the other points would map just like we said they would. Now, one thing to take note of is that the angles in this transformation do get distorted. So it does not preserve similarity. Think about why that is."
+}
