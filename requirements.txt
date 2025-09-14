@@ -1,5 +1,4 @@
-# Core dependencies for RAG-based AI system
-pandas==1.5.3
+# Core dependencies for RAG-based AI system (pandas removed for Railway)
 numpy==1.26.4
 scikit-learn==1.7.2
 joblib==1.5.2

@@ -119,8 +119,9 @@ def process_query(incoming_query):
     # Create embedding for the question
     question_embedding = create_embedding([incoming_query])[0] 
     
-    # Find similarities
-    embeddings_array = np.vstack(df['embedding'])
+    # Find similarities - work with numpy arrays directly
+    embeddings_list = [row['embedding'] for _, row in df.iterrows()]
+    embeddings_array = np.array(embeddings_list)
     question_embedding_array = np.array([question_embedding])
     
     # Normalize embeddings to prevent overflow/underflow issues
@@ -131,12 +132,24 @@ def process_query(incoming_query):
     
     top_results = 5
     max_indx = similarities.argsort()[::-1][0:top_results]
-    new_df = df.iloc[max_indx] 
+    
+    # Get top results without pandas
+    top_results_data = []
+    for idx in max_indx:
+        row = df.iloc[idx]
+        top_results_data.append({
+            'title': row['title'],
+            'number': row['number'],
+            'start': row['start'],
+            'end': row['end'],
+            'text': row['text']
+        })
     
     # Create prompt
+    import json
     prompt = f'''I am teaching Mathematics in my Math Class course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
 
-{new_df[["title", "number", "start", "end", "text"]].to_json(orient="records")}
+{json.dumps(top_results_data, indent=2)}
 ---------------------------------
 "{incoming_query}"
 User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
@@ -149,7 +162,7 @@ User asked this question related to the video chunks, you have to answer in a hu
     except Exception as e:
         print(f"API error: {e}")
         # Fallback response when API times out
-        response = create_fallback_response(new_df.to_dict('records'), incoming_query)
+        response = create_fallback_response(top_results_data, incoming_query)
     
     return response
 
