@@ -10,6 +10,9 @@ openai-whisper>=20231117
 openai>=1.0.0
 python-dotenv>=1.0.0
 
+# Web framework
+flask>=2.3.0
+
 # Optional: For better performance
 # torch>=1.13.0  # Uncomment if you want to use GPU acceleration for Whisper
 # torchaudio>=0.13.0  # Uncomment if you need audio processing features

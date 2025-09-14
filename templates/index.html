@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG-based AI Math Tutor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <h1>AI Math Tutor</h1>
+                </div>
+                <div class="subtitle">Ask me anything about Geometry & Transformations of Khan Academy!</div>
+            </div>
+        </header>
+
+        <!-- Chat Container -->
+        <div class="chat-container">
+            <div class="chat-messages" id="chatMessages">
+                <div class="welcome-message">
+                    <div class="welcome-content">
+                        <i class="fas fa-robot"></i>
+                        <h3>Welcome to your AI Math Tutor!</h3>
+                        <p>I can help you with questions about geometry, transformations, similar triangles, and more. Just ask me anything!</p>
+                        <div class="example-questions">
+                            <h4>Try asking:</h4>
+                            <div class="question-chips">
+                                <span class="chip" onclick="askQuestion('What is transformation?')">What is transformation?</span>
+                                <span class="chip" onclick="askQuestion('Explain similar triangles')">Explain similar triangles</span>
+                                <span class="chip" onclick="askQuestion('How do I reflect over y=x?')">How do I reflect over y=x?</span>
+                                <span class="chip" onclick="askQuestion('What are intersecting chords?')">What are intersecting chords?</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-container">
+                <div class="input-wrapper">
+                    <input type="text" id="messageInput" placeholder="Ask a question about geometry..." autocomplete="off">
+                    <button id="sendButton" onclick="sendMessage()">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <div class="input-footer">
+                    <span class="typing-indicator" id="typingIndicator" style="display: none;">
+                        <i class="fas fa-circle"></i>
+                        <i class="fas fa-circle"></i>
+                        <i class="fas fa-circle"></i>
+                        AI Tutor is thinking...
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-spinner">
+            <i class="fas fa-spinner fa-spin"></i>
+            <p>Loading AI Tutor...</p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
