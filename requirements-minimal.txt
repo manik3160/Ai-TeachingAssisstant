@@ -1,0 +1,21 @@
+# Minimal requirements for Railway deployment
+# Using exact versions to avoid build issues
+
+# Core ML libraries
+numpy==1.26.4
+scikit-learn==1.7.2
+joblib==1.5.2
+
+# Web framework
+flask==3.1.2
+gunicorn==23.0.0
+
+# OpenAI API
+openai==1.107.2
+python-dotenv==1.1.1
+
+# HTTP requests
+requests==2.32.5
+
+# Note: pandas removed to avoid build timeout
+# The app will work without pandas for basic functionality
