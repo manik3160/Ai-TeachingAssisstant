@@ -15,6 +15,13 @@ load_dotenv()
 # Initialize Flask app
 app = Flask(__name__)
 
+# Startup logging for Gunicorn
+print("=== RAG-based AI Application Module Loaded ===")
+print(f"🔍 Environment PORT: {os.getenv('PORT', 'Not set')}")
+print(f"🌐 Server will be available at the configured port")
+print(f"🔗 Health check available at: /api/health")
+print(f"🔗 Main page available at: /")
+
 # Initialize OpenAI client
 openai_api_key = os.getenv('OPENAI_API_KEY')
 if not openai_api_key:
@@ -195,6 +202,17 @@ def status():
     return jsonify({
         'status': 'running',
         'embeddings_loaded': df is not None,
+        'timestamp': time.time(),
+        'port': os.getenv('PORT', 'Not set'),
+        'openai_configured': client is not None
+    })
+
+@app.route('/test')
+def test():
+    """Simple test endpoint."""
+    return jsonify({
+        'message': 'RAG-based AI Application is working!',
+        'status': 'success',
         'timestamp': time.time()
     })
 
@@ -245,6 +263,7 @@ def health():
 
 if __name__ == '__main__':
     print("=== Starting RAG-based AI Application ===")
+    print(f"🔍 Environment PORT: {os.getenv('PORT', 'Not set')}")
     
     # Try to load embeddings on startup, but don't fail if not available
     try:
@@ -259,6 +278,7 @@ if __name__ == '__main__':
         port = int(os.getenv('PORT', 8080))
         print(f"🌐 Server will run on port {port}")
         print(f"🔗 Health check available at: http://0.0.0.0:{port}/api/health")
+        print(f"🔗 Main page available at: http://0.0.0.0:{port}/")
         app.run(debug=False, host='0.0.0.0', port=port)
     except Exception as e:
         print(f"❌ Failed to start app: {e}")
