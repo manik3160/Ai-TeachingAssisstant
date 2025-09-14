@@ -16,7 +16,13 @@ load_dotenv()
 app = Flask(__name__)
 
 # Initialize OpenAI client
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+openai_api_key = os.getenv('OPENAI_API_KEY')
+if not openai_api_key:
+    print("⚠️  Warning: OPENAI_API_KEY not found in environment variables")
+    print("App will start but chat functionality will be limited")
+    client = None
+else:
+    client = OpenAI(api_key=openai_api_key)
 
 # Global variable to store embeddings
 df = None
@@ -28,12 +34,19 @@ def load_embeddings():
         raise FileNotFoundError("embeddings.joblib file not found. Please run preprocess.py first.")
     
     print("Loading embeddings...")
-    df = joblib.load('embeddings.joblib')
-    print(f"Loaded {len(df)} embeddings successfully")
-    return df
+    try:
+        df = joblib.load('embeddings.joblib')
+        print(f"✅ Loaded {len(df)} embeddings successfully")
+        return df
+    except Exception as e:
+        print(f"❌ Error loading embeddings: {e}")
+        raise e
 
 def create_embedding(text_list, max_retries=3):
     """Create embeddings using OpenAI API with error handling and retry logic."""
+    if client is None:
+        raise Exception("OpenAI client not initialized. Please check your API key.")
+    
     for attempt in range(max_retries):
         try:
             print(f"Creating embedding (attempt {attempt + 1}/{max_retries})...")
@@ -58,6 +71,9 @@ def create_embedding(text_list, max_retries=3):
 
 def inference(prompt, max_retries=3):
     """Generate response using OpenAI API with error handling and retry logic."""
+    if client is None:
+        raise Exception("OpenAI client not initialized. Please check your API key.")
+    
     for attempt in range(max_retries):
         try:
             print(f"Generating response (attempt {attempt + 1}/{max_retries})...")
@@ -173,6 +189,15 @@ def index():
     """Serve the main page."""
     return render_template('index.html')
 
+@app.route('/api/status')
+def status():
+    """Simple status endpoint for debugging."""
+    return jsonify({
+        'status': 'running',
+        'embeddings_loaded': df is not None,
+        'timestamp': time.time()
+    })
+
 @app.route('/api/chat', methods=['POST'])
 def chat():
     """Handle chat messages."""
@@ -202,27 +227,39 @@ def chat():
 def health():
     """Health check endpoint."""
     try:
-        # Try to load embeddings if not already loaded
-        if df is None:
-            load_embeddings()
-        return jsonify({'status': 'healthy', 'embeddings_loaded': df is not None})
+        # Always return healthy for basic health check
+        # Don't try to load embeddings in health check to avoid blocking
+        return jsonify({
+            'status': 'healthy', 
+            'embeddings_loaded': df is not None,
+            'message': 'Service is running'
+        })
     except Exception as e:
-        # Return healthy even if embeddings can't be loaded
-        return jsonify({'status': 'healthy', 'embeddings_loaded': False, 'error': str(e)})
+        # Return healthy even if there are issues
+        return jsonify({
+            'status': 'healthy', 
+            'embeddings_loaded': False, 
+            'error': str(e),
+            'message': 'Service is running with limited functionality'
+        })
 
 if __name__ == '__main__':
+    print("=== Starting RAG-based AI Application ===")
+    
+    # Try to load embeddings on startup, but don't fail if not available
     try:
-        # Try to load embeddings on startup, but don't fail if not available
-        try:
-            load_embeddings()
-            print("Embeddings loaded successfully")
-        except Exception as e:
-            print(f"Warning: Could not load embeddings: {e}")
-            print("App will start without embeddings - some features may not work")
-        
-        print("Starting Flask app...")
+        load_embeddings()
+        print("✅ Embeddings loaded successfully")
+    except Exception as e:
+        print(f"⚠️  Warning: Could not load embeddings: {e}")
+        print("App will start without embeddings - some features may not work")
+    
+    print("🚀 Starting Flask app...")
+    try:
         port = int(os.getenv('PORT', 8080))
+        print(f"🌐 Server will run on port {port}")
+        print(f"🔗 Health check available at: http://0.0.0.0:{port}/api/health")
         app.run(debug=False, host='0.0.0.0', port=port)
     except Exception as e:
-        print(f"Failed to start app: {e}")
+        print(f"❌ Failed to start app: {e}")
         sys.exit(1)
