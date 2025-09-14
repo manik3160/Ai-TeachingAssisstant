@@ -4,7 +4,7 @@ numpy>=1.21.0,<2.0.0
 scikit-learn>=1.1.0,<2.0.0
 joblib>=1.2.0
 requests>=2.28.0
-openai-whisper>=20231117
+# openai-whisper>=20231117  # Removed for Railway deployment - too heavy
 
 # OpenAI API integration
 openai>=1.0.0
@@ -12,6 +12,7 @@ python-dotenv>=1.0.0
 
 # Web framework
 flask>=2.3.0
+gunicorn>=21.0.0
 
 # Optional: For better performance
 # torch>=1.13.0  # Uncomment if you want to use GPU acceleration for Whisper

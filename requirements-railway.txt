@@ -1,0 +1,17 @@
+# Core dependencies for RAG-based AI system
+pandas>=1.5.0,<2.0.0
+numpy>=1.21.0,<2.0.0
+scikit-learn>=1.1.0,<2.0.0
+joblib>=1.2.0
+requests>=2.28.0
+
+# OpenAI API integration
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Web framework
+flask>=2.3.0
+gunicorn>=21.0.0
+
+# Note: Removed openai-whisper for Railway deployment
+# This package is only needed for video processing, not for the chat interface
