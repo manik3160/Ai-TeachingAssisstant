@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, jsonify
+import pandas as pd
 import numpy as np 
 import joblib 
 import os
@@ -220,7 +221,8 @@ if __name__ == '__main__':
             print("App will start without embeddings - some features may not work")
         
         print("Starting Flask app...")
-        app.run(debug=True, host='0.0.0.0', port=8080)
+        port = int(os.getenv('PORT', 8080))
+        app.run(debug=False, host='0.0.0.0', port=port)
     except Exception as e:
         print(f"Failed to start app: {e}")
         sys.exit(1)
