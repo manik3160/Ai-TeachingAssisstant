@@ -182,6 +182,12 @@ def chat():
         if not message:
             return jsonify({'error': 'Message cannot be empty'}), 400
         
+        # Check if embeddings are available
+        if df is None:
+            return jsonify({
+                'response': 'I apologize, but the AI tutor is currently unavailable. The knowledge base is not loaded. Please try again later or contact support.'
+            })
+        
         # Process the query
         response = process_query(message)
         
@@ -194,12 +200,25 @@ def chat():
 @app.route('/api/health')
 def health():
     """Health check endpoint."""
-    return jsonify({'status': 'healthy', 'embeddings_loaded': df is not None})
+    try:
+        # Try to load embeddings if not already loaded
+        if df is None:
+            load_embeddings()
+        return jsonify({'status': 'healthy', 'embeddings_loaded': df is not None})
+    except Exception as e:
+        # Return healthy even if embeddings can't be loaded
+        return jsonify({'status': 'healthy', 'embeddings_loaded': False, 'error': str(e)})
 
 if __name__ == '__main__':
     try:
-        # Load embeddings on startup
-        load_embeddings()
+        # Try to load embeddings on startup, but don't fail if not available
+        try:
+            load_embeddings()
+            print("Embeddings loaded successfully")
+        except Exception as e:
+            print(f"Warning: Could not load embeddings: {e}")
+            print("App will start without embeddings - some features may not work")
+        
         print("Starting Flask app...")
         app.run(debug=True, host='0.0.0.0', port=8080)
     except Exception as e:
